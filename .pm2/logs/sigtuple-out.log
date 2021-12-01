@@ -1,0 +1,1166 @@
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/Api.js
+  Line 4:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 5:8:    'Stories' is defined but never used                                                                           no-unused-vars
+  Line 6:20:   'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 17:12:  'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 17:23:  'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 47:8:   React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 65:8:   React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+  Line 19:3:  'Link' is defined but never used       no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 108:7:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 138:41:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 58:46:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:71:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:80:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:84:  Unnecessary escape character: \"  no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 44:24:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 92:20:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 100:7:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step4.js
+  Line 22:21:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 46:17:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 179:96:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 221:57:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 40:6:     React Hook useEffect has a missing dependency: 'openMenu'. Either include it or remove the dependency array                                                                                                                                                                                                                                                              react-hooks/exhaustive-deps
+  Line 69:17:    img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 84:13:    The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 145:95:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 146:138:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:106:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 224:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 236:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 26:9:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 41:31:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 45:9:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 58:23:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 92:13:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 97:13:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 102:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 138:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 32:57:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 78:16:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+
+src/components/ResearchPage.js
+  Line 94:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 65:57:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+src/components/ShravaPage.js
+  Line 62:57:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 580:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+  Line 583:38:  Expected '!==' and instead saw '!='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 107:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 153:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 58:31:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"  no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 46:17:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 179:96:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 221:57:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 377:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 392:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+
+src/components/ResearchPage.js
+  Line 95:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+src/components/ShravaPage.js
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 580:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+  Line 583:38:  Expected '!==' and instead saw '!='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 107:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 153:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 58:31:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"  no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 46:17:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 179:96:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 221:57:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 377:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 392:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+
+src/components/ResearchPage.js
+  Line 95:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+src/components/ShravaPage.js
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 580:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+  Line 583:38:  Expected '!==' and instead saw '!='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 107:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 153:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 58:31:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"  no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 46:17:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 179:96:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 221:57:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 377:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 392:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+
+src/components/ResearchPage.js
+  Line 95:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+src/components/ShravaPage.js
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 580:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+  Line 583:38:  Expected '!==' and instead saw '!='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 107:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 153:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 58:31:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"  no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"  no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 46:17:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 179:96:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 221:57:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 377:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 392:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+
+src/components/ResearchPage.js
+  Line 95:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+src/components/ShravaPage.js
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 486:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 108:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 154:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 23:19:  'setCountry' is assigned a value but never used  no-unused-vars
+  Line 58:31:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"                 no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 52:9:    The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 257:41:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 362:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 376:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 391:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 4:8:    'Slider' is defined but never used                                                                                                                                                                                                                                 no-unused-vars
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 19:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+  Line 93:7:   'slider_settings' is assigned a value but never used                                                                                                                                                                                                               no-unused-vars
+
+src/components/ResearchPage.js
+  Line 20:10:   'dropDownYear' is assigned a value but never used                                                          no-unused-vars
+  Line 21:22:   'setSeleteYear' is assigned a value but never used                                                         no-unused-vars
+  Line 55:9:    'getPublication' is assigned a value but never used                                                        no-unused-vars
+  Line 76:7:    'renderPublication' is assigned a value but never used                                                     no-unused-vars
+  Line 93:15:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 231:35:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 101:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+src/components/ShravaPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 102:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 486:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 108:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 154:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 23:19:  'setCountry' is assigned a value but never used  no-unused-vars
+  Line 58:31:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"                 no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 52:9:    The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 257:41:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 362:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 376:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 391:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 4:8:    'Slider' is defined but never used                                                                                                                                                                                                                                 no-unused-vars
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 19:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+  Line 93:7:   'slider_settings' is assigned a value but never used                                                                                                                                                                                                               no-unused-vars
+
+src/components/ResearchPage.js
+  Line 20:10:   'dropDownYear' is assigned a value but never used                                                          no-unused-vars
+  Line 21:22:   'setSeleteYear' is assigned a value but never used                                                         no-unused-vars
+  Line 55:9:    'getPublication' is assigned a value but never used                                                        no-unused-vars
+  Line 76:7:    'renderPublication' is assigned a value but never used                                                     no-unused-vars
+  Line 93:15:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 231:35:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 101:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+src/components/ShravaPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 102:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Failed to compile.
+
+ENOSPC: no space left on device, write
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Proje
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Failed to compile.
+
+ENOSPC: no space left on device, write
+
+> frontend@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://172.31.26.236/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ubuntu/frontend/sigtuple/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src/Api.js
+  Line 5:5:  'local' is assigned a value but never used  no-unused-vars
+
+src/components/AboutUs.js
+  Line 4:8:     'Stories' is defined but never used                                                                           no-unused-vars
+  Line 5:20:    'getTeamCounts' is defined but never used                                                                     no-unused-vars
+  Line 16:10:   'hoverText' is assigned a value but never used                                                                no-unused-vars
+  Line 16:21:   'setHoverText' is assigned a value but never used                                                             no-unused-vars
+  Line 49:6:    React Hook useEffect has a missing dependency: 'story'. Either include it or remove the dependency array      react-hooks/exhaustive-deps
+  Line 82:6:    React Hook useEffect has a missing dependency: 'storyYear'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 486:38:  Expected '===' and instead saw '=='                                                                           eqeqeq
+
+src/components/App.js
+  Line 15:50:  'Link' is defined but never used  no-unused-vars
+
+src/components/BlogLists.js
+  Line 14:25:  Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 40:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/BookDemo.js
+  Line 7:10:    'sendOtp' is defined but never used                                                                                                                                                              no-unused-vars
+  Line 12:8:    'StepWizard' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 108:6:   React Hook useEffect has missing dependencies: 'meetingDetails', 'message', and 'userDetails'. Either include them or remove the dependency array                                                react-hooks/exhaustive-deps
+  Line 154:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/components/BookDemo/Step1.js
+  Line 23:19:  'setCountry' is assigned a value but never used  no-unused-vars
+  Line 58:31:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:56:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:65:  Unnecessary escape character: \"                 no-useless-escape
+  Line 58:69:  Unnecessary escape character: \"                 no-useless-escape
+
+src/components/BookDemo/Step2.js
+  Line 5:10:   'date' is defined but never used                                                                                               no-unused-vars
+  Line 48:21:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 94:19:  Array.prototype.map() expects a return value from arrow function                                                               array-callback-return
+  Line 102:6:  React Hook useEffect has missing dependencies: 'defaultValue' and 'slots'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/BookDemo/Step3.js
+  Line 4:10:  'useEffect' is defined but never used  no-unused-vars
+
+src/components/BookDemo/Step4.js
+  Line 1:10:   'useEffect' is defined but never used                                                                                                                                                                                                                                                                                                                             no-unused-vars
+  Line 28:13:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+src/components/Careers.js
+  Line 52:9:    The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 257:41:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                                                                                                               eqeqeq
+  Line 362:29:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                         jsx-a11y/alt-text
+
+src/components/Client.js
+  Line 250:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 284:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ContactUs.js
+  Line 72:21:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 215:13:  <iframe> elements must have a unique title property                                                                                                                                                                                                                                                                                                                      jsx-a11y/iframe-has-title
+
+src/components/ContactUs/Form.js
+  Line 4:10:    'ToastContainer' is defined but never used  no-unused-vars
+  Line 11:77:   Unnecessary escape character: \.            no-useless-escape
+  Line 11:85:   Unnecessary escape character: \"            no-useless-escape
+  Line 11:101:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:109:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:118:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:122:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:138:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:146:  Unnecessary escape character: \"            no-useless-escape
+  Line 11:163:  Unnecessary escape character: \.            no-useless-escape
+  Line 11:171:  Unnecessary escape character: \"            no-useless-escape
+
+src/components/Footer.js
+  Line 12:33:   The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 48:114:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 49:157:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 50:123:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/Header.js
+  Line 124:17:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 147:13:  The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 283:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 293:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+  Line 304:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images                                                                                                                                                                                                                                                                jsx-a11y/alt-text
+
+src/components/LandingPage.js
+  Line 376:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 391:21:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Awards.js
+  Line 75:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 105:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 114:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 123:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 132:11:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/MicroProduct.js
+  Line 2:8:     'Slider' is defined but never used                                                                         no-unused-vars
+  Line 10:9:    'ref' is assigned a value but never used                                                                   no-unused-vars
+  Line 27:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 42:27:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 46:5:    Duplicate key 'display'                                                                                    no-dupe-keys
+  Line 51:9:    'setting_ai100' is assigned a value but never used                                                         no-unused-vars
+  Line 59:19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 104:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 113:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 122:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/LandingPage/Reviews.js
+  Line 136:6:  React Hook useEffect has a missing dependency: 'publication.length'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/Products.js
+  Line 4:8:    'Slider' is defined but never used                                                                                                                                                                                                                                 no-unused-vars
+  Line 12:8:   '$' is defined but never used                                                                                                                                                                                                                                      no-unused-vars
+  Line 19:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 38:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 86:12:  Expected '===' and instead saw '=='                                                                                                                                                                                                                                eqeqeq
+  Line 93:7:   'slider_settings' is assigned a value but never used                                                                                                                                                                                                               no-unused-vars
+
+src/components/ResearchPage.js
+  Line 20:10:   'dropDownYear' is assigned a value but never used                                                          no-unused-vars
+  Line 21:22:   'setSeleteYear' is assigned a value but never used                                                         no-unused-vars
+  Line 55:9:    'getPublication' is assigned a value but never used                                                        no-unused-vars
+  Line 76:7:    'renderPublication' is assigned a value but never used                                                     no-unused-vars
+  Line 93:15:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 231:35:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src/components/ScrollToTop.js
+  Line 12:6:  React Hook useEffect has a missing dependency: 'history'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/components/ShonitPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 73:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 101:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+src/components/ShravaPage.js
+  Line 16:10:  'currentSlide' is assigned a value but never used                                                                                                                                                                                                                  no-unused-vars
+  Line 74:19:  The ref value 'parentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'parentRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+  Line 102:7:  'product_settings' is assigned a value but never used                                                                                                                                                                                                              no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+

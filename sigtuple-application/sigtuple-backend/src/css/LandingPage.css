@@ -1,0 +1,168 @@
+/* .client-arrows .slick-prev:before {
+  color: #FFFFFF;
+}
+.client-arrows .slick-next:before {
+  color: #FFFFFF;
+} */
+
+.header-dropdown {
+}
+
+.header-dropdown:hover .dropdown-content {
+  display: block !important;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  /* left: 0; */
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 10px;
+  width: max-content;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 15;
+}
+
+.dropdown-content a {
+  color: #707070;
+}
+
+.dropdown-content > a:hover {
+  color: #707070;
+  background-color: transparent;
+  font-weight: 400 !important;
+}
+
+.slick-next::before,
+.slick-prev::before {
+  content: none;
+}
+
+.col-6.company-say.d-flex.flex-column {
+  border-radius: 5%;
+  height: 356px;
+}
+
+.description-blog-hide {
+  display: none;
+}
+
+.description-blog-show {
+  display: block;
+}
+
+.me-3 {
+  height: 85px;
+  width: 85px;
+  border-radius: 100px;
+}
+
+.relative_microscope {
+  position: relative;
+}
+.relative_microscope .microscope_text {
+  position: absolute;
+  background-color: #ffffff;
+  height: 100px;
+  width: 170px;
+  top: 60px;
+  right: 260px;
+  padding: 30px;
+}
+.client_sections {
+  height: 363px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.clients_text_sections {
+  padding: 20px 40px;
+  font-size: 18px;
+  margin: auto;
+  min-height: 220px;
+}
+.clients_user_sections {
+  padding: 10px 34px;
+}
+/* .sticky_header{
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
+} */
+.check_product {
+  position: absolute;
+  top: 650px;
+  left: 750px;
+  white-space: nowrap;
+}
+.position_relative_row {
+  position: relative;
+}
+.absolute_shonit {
+  position: absolute;
+  top: 190px;
+}
+.absolute_shrava {
+  position: absolute;
+  top: 190px;
+  left: 1100px;
+}
+
+.shonit-hover-block {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  display: flex;
+}
+
+.shrava-hover-block {
+  width: 150px;
+  height: 150px;
+  display: flex;
+}
+
+/* .work-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 420px;
+  background: #f3f3f3;
+} */
+
+.text_section_blood {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 111.3%;
+  text-align: center;
+  color: #707070;
+  position: absolute;
+  top: 115px;
+}
+.our_product_text_block {
+  display: block;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  /* font-size: 40px; */
+  line-height: 100%;
+  text-align: center;
+
+  color: #707070;
+}
+.our_product_text_none {
+  display: block;
+}
+.image_section_blood {
+  position: absolute;
+  top: 50px;
+  margin-bottom: 100px;
+}
+.client_section_text {
+  color: #707070;
+}
+.awards_images {
+  height: 236px;
+  width: 346px;
+}

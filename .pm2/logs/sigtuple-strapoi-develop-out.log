@@ -1,0 +1,1219 @@
+
+> backend@0.1.0 develop
+> strapi develop
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 19:16:34 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 4535 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 20798                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T19:16:42.405Z] debug POST /admin/login (155 ms) 200
+[2021-11-29T19:16:42.735Z] debug GET /admin/information (59 ms) 200
+[2021-11-29T19:16:42.994Z] debug GET /content-manager/components (89 ms) 200
+[2021-11-29T19:16:43.033Z] debug GET /content-manager/content-types-settings (133 ms) 200
+[2021-11-29T19:16:43.064Z] debug GET /content-manager/content-types (154 ms) 200
+[2021-11-29T19:16:43.100Z] debug GET /admin/users/me/permissions (184 ms) 200
+[2021-11-29T19:16:43.319Z] debug GET /content-manager/content-types (28 ms) 200
+[2021-11-29T19:16:43.412Z] debug GET /content-manager/components (58 ms) 200
+[2021-11-29T19:16:43.446Z] debug GET /content-manager/content-types-settings (96 ms) 200
+[2021-11-29T19:16:43.587Z] debug GET /content-manager/content-types (34 ms) 200
+[2021-11-29T19:16:43.859Z] debug GET /content-manager/content-types (38 ms) 200
+[2021-11-29T19:16:44.338Z] debug GET /admin/f46a81c3d1d3a648af68cffd4d0bba1d.png (14 ms) 200
+[2021-11-29T19:16:44.339Z] debug GET /admin/3dd22e0349b2d2a7b7c998ad0bdb03df.png (8 ms) 200
+[2021-11-29T19:16:44.340Z] debug GET /admin/a4234d384f7c58f2f5f90cfb08cee1e1.png (6 ms) 200
+[2021-11-29T19:16:44.341Z] debug GET /admin/2fa5de8209723e8dc08c8aee4644da58.png (6 ms) 200
+[2021-11-29T19:16:44.341Z] debug GET /admin/f16ac9b228b18810dd7cd6313764c007.png (5 ms) 200
+[2021-11-29T19:16:44.551Z] debug GET /admin/7b77ea7e971bd3774dac8db799dfcef7.png (1 ms) 200
+[2021-11-29T19:16:46.543Z] debug GET /content-type-builder/components (26 ms) 200
+[2021-11-29T19:16:46.573Z] debug GET /content-type-builder/content-types (48 ms) 200
+[2021-11-29T19:16:46.593Z] debug GET /content-type-builder/reserved-names (64 ms) 200
+[2021-11-29T19:16:55.019Z] debug GET application:application/admin/plugins/content-type-builder/content-types/application::blogs.blogs (2 ms) 200
+[2021-11-29T19:16:55.322Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T19:16:55.327Z] debug GET /admin/runtime~main.e591ad3f.js (2 ms) 200
+[2021-11-29T19:17:07.344Z] debug POST /admin/renew-token (65 ms) 200
+[2021-11-29T19:17:07.594Z] debug GET /admin/init (47 ms) 200
+[2021-11-29T19:17:08.008Z] debug GET /admin/information (42 ms) 200
+[2021-11-29T19:17:08.048Z] debug GET /i18n/locales (78 ms) 404
+[2021-11-29T19:17:08.260Z] debug GET /content-manager/content-types (31 ms) 200
+[2021-11-29T19:17:08.341Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (2 ms) 200
+[2021-11-29T19:17:56.943Z] debug GET /admin (1 ms) 200
+[2021-11-29T19:17:57.231Z] debug GET /admin/main.ee3d694b.chunk.js (2 ms) 200
+[2021-11-29T19:17:57.234Z] debug GET /admin/runtime~main.e591ad3f.js (1 ms) 200
+[2021-11-29T19:18:09.420Z] debug GET /admin/init (5 ms) 200
+[2021-11-29T19:18:09.853Z] debug GET /admin/842e7845f3f8e943ff712a39617b6b70.svg (1 ms) 200
+[2021-11-29T19:18:10.095Z] debug GET /admin/a6069540692725c247f13984a9598a92.woff2 (1 ms) 200
+[2021-11-29T19:18:10.127Z] debug GET /admin/21b3848a32fce5b0f5014948186f6964.woff2 (3 ms) 200
+[2021-11-29T19:18:10.135Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (2 ms) 200
+[2021-11-29T19:18:10.140Z] debug GET /admin/07109cdae9f760e8d97c89788c9dc9df.png (2 ms) 200
+[2021-11-29T19:18:13.747Z] debug POST /admin/login (121 ms) 200
+[2021-11-29T19:18:14.086Z] debug GET /content-manager/content-types (44 ms) 200
+[2021-11-29T19:18:14.127Z] debug GET /i18n/locales (80 ms) 404
+[2021-11-29T19:18:14.140Z] debug GET /admin/information (88 ms) 200
+[2021-11-29T19:18:20.986Z] debug GET /admin/shallowequal.cjs.production.min.js.map (2 ms) 200
+[2021-11-29T19:19:12.605Z] debug POST /admin/login (115 ms) 200
+[2021-11-29T19:19:12.870Z] debug GET /admin/information (23 ms) 200
+[2021-11-29T19:19:13.162Z] debug GET /content-manager/components (81 ms) 200
+[2021-11-29T19:19:13.303Z] debug GET /content-manager/content-types-settings (227 ms) 200
+[2021-11-29T19:19:13.324Z] debug GET /content-manager/content-types (236 ms) 200
+[2021-11-29T19:19:13.380Z] debug GET /admin/users/me/permissions (289 ms) 200
+[2021-11-29T19:19:13.579Z] debug GET /content-manager/content-types (23 ms) 200
+[2021-11-29T19:19:13.678Z] debug GET /content-manager/components (51 ms) 200
+[2021-11-29T19:19:13.706Z] debug GET /content-manager/content-types-settings (83 ms) 200
+[2021-11-29T19:19:13.828Z] debug GET /content-manager/content-types (20 ms) 200
+[2021-11-29T19:19:14.074Z] debug GET /admin/f46a81c3d1d3a648af68cffd4d0bba1d.png (4 ms) 200
+[2021-11-29T19:19:14.075Z] debug GET /admin/f16ac9b228b18810dd7cd6313764c007.png (4 ms) 200
+[2021-11-29T19:19:14.077Z] debug GET /admin/a4234d384f7c58f2f5f90cfb08cee1e1.png (5 ms) 200
+[2021-11-29T19:19:14.078Z] debug GET /admin/2fa5de8209723e8dc08c8aee4644da58.png (5 ms) 200
+[2021-11-29T19:19:14.100Z] debug GET /content-manager/content-types (33 ms) 200
+[2021-11-29T19:19:14.292Z] debug GET /admin/7b77ea7e971bd3774dac8db799dfcef7.png (1 ms) 200
+[2021-11-29T19:19:14.307Z] debug GET /admin/3dd22e0349b2d2a7b7c998ad0bdb03df.png (1 ms) 200
+[2021-11-29T19:19:16.752Z] debug GET /content-type-builder/components (24 ms) 200
+[2021-11-29T19:19:16.785Z] debug GET /content-type-builder/content-types (30 ms) 200
+[2021-11-29T19:19:16.799Z] debug GET /content-type-builder/reserved-names (41 ms) 200
+[2021-11-29T19:19:19.231Z] debug GET /admin/ (1 ms) 200
+[2021-11-29T19:19:19.445Z] debug GET /admin/ (6 ms) 200
+[2021-11-29T19:19:19.553Z] debug GET /admin/ (2 ms) 200
+[2021-11-29T19:19:19.829Z] debug GET /admin/ (1 ms) 200
+[2021-11-29T19:19:19.927Z] debug GET /admin/ (2 ms) 200
+[2021-11-29T19:19:20.084Z] debug GET /admin/ (1 ms) 200
+[2021-11-29T19:19:20.190Z] debug GET /admin/ (2 ms) 200
+[2021-11-29T19:19:20.232Z] debug GET /admin/ (1 ms) 200
+[2021-11-29T19:19:20.304Z] debug GET /admin/ (2 ms) 200
+[2021-11-29T19:19:20.401Z] debug GET /admin/ (1 ms) 200
+[2021-11-29T19:19:20.679Z] debug GET /admin/runtime~main.e591ad3f.js (1 ms) 200
+[2021-11-29T19:19:20.698Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T19:19:35.605Z] debug GET /admin/shallowequal.cjs.production.min.js.map (1 ms) 200
+[2021-11-29T19:19:35.796Z] debug POST /admin/renew-token (27 ms) 200
+[2021-11-29T19:19:36.046Z] debug GET /favicon.ico (2 ms) 200
+[2021-11-29T19:19:36.069Z] debug GET /admin/init (39 ms) 200
+[2021-11-29T19:19:36.455Z] debug GET /admin/information (62 ms) 200
+[2021-11-29T19:19:36.490Z] debug GET /i18n/locales (85 ms) 404
+[2021-11-29T19:19:36.531Z] debug GET /content-manager/content-types (118 ms) 200
+[2021-11-29T19:19:36.777Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (2 ms) 200
+[2021-11-29T19:21:53.794Z] debug GET index.html (8 ms) 200
+[2021-11-29T19:21:54.110Z] debug GET /assets/images/logo_login.png (6 ms) 200
+[2021-11-29T19:21:55.707Z] debug GET /admin (1 ms) 200
+[2021-11-29T19:21:55.995Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T19:21:56.003Z] debug GET /admin/runtime~main.e591ad3f.js (1 ms) 200
+[2021-11-29T19:22:09.607Z] debug GET /admin/shallowequal.cjs.production.min.js.map (2 ms) 200
+[2021-11-29T19:22:10.068Z] debug GET /admin/init (2 ms) 200
+[2021-11-29T19:22:10.494Z] debug GET /admin/842e7845f3f8e943ff712a39617b6b70.svg (1 ms) 200
+[2021-11-29T19:22:10.502Z] debug GET /admin/a6069540692725c247f13984a9598a92.woff2 (1 ms) 200
+[2021-11-29T19:22:10.772Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (21 ms) 200
+[2021-11-29T19:22:10.789Z] debug GET /admin/21b3848a32fce5b0f5014948186f6964.woff2 (15 ms) 200
+[2021-11-29T19:22:11.084Z] debug GET /admin/07109cdae9f760e8d97c89788c9dc9df.png (1 ms) 200
+[2021-11-29T19:22:19.652Z] debug POST /admin/login (119 ms) 200
+[2021-11-29T19:22:19.974Z] debug GET /admin/information (29 ms) 200
+[2021-11-29T19:22:20.005Z] debug GET /i18n/locales (27 ms) 404
+[2021-11-29T19:22:20.252Z] debug GET /content-manager/content-types (34 ms) 200
+[2021-11-29T19:23:28.646Z] info File changed: /home/ubuntu/sigtuple-backend/api/teams/models/teams.settings.json
+[2021-11-29T19:23:28.647Z] debug PUT /content-type-builder/content-types/application::teams.teams (46 ms) 201
+[2021-11-29T19:23:28.651Z] info The server is restarting
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 19:23:34 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 4904 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 20824                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T19:23:35.026Z] debug GET /admin/users/me/permissions (85 ms) 200
+[2021-11-29T19:23:35.582Z] debug GET /content-manager/content-types-settings (75 ms) 200
+[2021-11-29T19:23:35.768Z] debug GET /content-type-builder/components (35 ms) 200
+[2021-11-29T19:23:35.791Z] debug GET /content-type-builder/content-types (51 ms) 200
+[2021-11-29T19:23:35.805Z] debug GET /content-type-builder/reserved-names (59 ms) 200
+[2021-11-29T19:23:35.842Z] debug GET /content-manager/content-types (27 ms) 200
+[2021-11-29T19:23:46.561Z] debug GET /content-manager/components (56 ms) 200
+[2021-11-29T19:23:46.582Z] debug GET /content-manager/content-types (65 ms) 200
+[2021-11-29T19:23:46.852Z] debug GET /content-manager/content-types/application::teams.teams/configuration (36 ms) 200
+[2021-11-29T19:23:47.174Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (48 ms) 200
+[2021-11-29T19:23:52.659Z] debug GET /content-manager/collection-types/application::teams.teams/8 (43 ms) 200
+[2021-11-29T19:24:16.151Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (59 ms) 200
+[2021-11-29T19:24:19.527Z] debug GET /content-type-builder/components (62 ms) 200
+[2021-11-29T19:24:19.564Z] debug GET /content-type-builder/content-types (94 ms) 200
+[2021-11-29T19:24:19.737Z] debug GET /content-type-builder/reserved-names (40 ms) 200
+[2021-11-29T19:28:56.070Z] info File changed: /home/ubuntu/sigtuple-backend/api/teams/models/teams.settings.json
+[2021-11-29T19:28:56.071Z] debug PUT /content-type-builder/content-types/application::teams.teams (87 ms) 201
+[2021-11-29T19:28:56.074Z] info The server is restarting
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 19:29:01 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 4765 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 20852                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T19:29:02.171Z] debug GET /admin/users/me/permissions (82 ms) 200
+[2021-11-29T19:29:02.739Z] debug GET /content-manager/content-types-settings (80 ms) 200
+[2021-11-29T19:29:02.939Z] debug GET /content-type-builder/content-types (41 ms) 200
+[2021-11-29T19:29:02.957Z] debug GET /content-type-builder/components (54 ms) 200
+[2021-11-29T19:29:02.972Z] debug GET /content-type-builder/reserved-names (66 ms) 200
+[2021-11-29T19:29:03.005Z] debug GET /content-manager/content-types (30 ms) 200
+[2021-11-29T19:29:03.449Z] debug GET /content-manager/components (53 ms) 200
+[2021-11-29T19:29:03.463Z] debug GET /content-manager/content-types (53 ms) 200
+[2021-11-29T19:29:03.732Z] debug GET /content-manager/content-types/application::teams.teams/configuration (34 ms) 200
+[2021-11-29T19:29:04.034Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (45 ms) 200
+[2021-11-29T19:29:07.224Z] debug GET /content-manager/collection-types/application::teams.teams/3 (38 ms) 200
+[2021-11-29T19:29:31.895Z] debug PUT /content-manager/collection-types/application::teams.teams/3 (146 ms) 200
+[2021-11-29T19:30:20.371Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (40 ms) 200
+[2021-11-29T19:30:20.382Z] debug GET /teams?_sort=created_at:asc&_limit=5 (38 ms) 200
+[2021-11-29T19:32:56.944Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (28 ms) 200
+[2021-11-29T19:32:56.964Z] debug GET /teams?_sort=created_at:asc&_limit=5 (36 ms) 200
+[2021-11-29T19:33:01.477Z] debug GET /teams?_sort=created_at:asc&_limit=5 (46 ms) 200
+[2021-11-29T19:33:01.480Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (42 ms) 200
+[2021-11-29T19:33:42.569Z] debug GET index.html (12 ms) 200
+[2021-11-29T19:33:42.809Z] debug GET index.html (8 ms) 200
+[2021-11-29T19:33:42.920Z] debug GET index.html (9 ms) 200
+[2021-11-29T19:33:43.203Z] debug GET index.html (6 ms) 200
+[2021-11-29T19:33:43.520Z] debug GET /assets/images/logo_login.png (3 ms) 200
+[2021-11-29T19:33:43.813Z] debug GET /favicon.ico (1 ms) 200
+[2021-11-29T19:33:45.663Z] debug GET /admin (1 ms) 200
+[2021-11-29T19:33:45.963Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T19:33:46.226Z] debug GET /admin/runtime~main.e591ad3f.js (1 ms) 200
+[2021-11-29T19:34:15.476Z] debug GET index.html (9 ms) 200
+[2021-11-29T19:34:15.794Z] debug GET /assets/images/logo_login.png (2 ms) 200
+[2021-11-29T19:34:16.142Z] debug GET /favicon.ico (0 ms) 200
+[2021-11-29T19:34:17.186Z] debug GET /admin (2 ms) 200
+[2021-11-29T19:34:17.473Z] debug GET /admin/runtime~main.e591ad3f.js (1 ms) 200
+[2021-11-29T19:34:17.738Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T19:34:38.134Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (157 ms) 200
+[2021-11-29T19:34:46.763Z] debug GET /admin/init (3 ms) 200
+[2021-11-29T19:34:47.189Z] debug GET /admin/842e7845f3f8e943ff712a39617b6b70.svg (2 ms) 200
+[2021-11-29T19:34:47.453Z] debug GET /admin/a6069540692725c247f13984a9598a92.woff2 (1 ms) 200
+[2021-11-29T19:34:47.463Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (2 ms) 200
+[2021-11-29T19:34:47.468Z] debug GET /admin/07109cdae9f760e8d97c89788c9dc9df.png (4 ms) 200
+[2021-11-29T19:34:47.469Z] debug GET /admin/21b3848a32fce5b0f5014948186f6964.woff2 (4 ms) 200
+[2021-11-29T19:37:14.711Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (23 ms) 200
+[2021-11-29T19:37:14.736Z] debug GET /teams?_sort=created_at:asc&_limit=5 (22 ms) 200
+[2021-11-29T19:37:54.482Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (20 ms) 200
+[2021-11-29T19:37:54.744Z] debug GET /teams?_sort=created_at:asc&_limit=5 (19 ms) 200
+[2021-11-29T19:38:12.783Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (30 ms) 200
+[2021-11-29T19:38:12.822Z] debug GET /teams?_sort=created_at:asc&_limit=5 (36 ms) 200
+[2021-11-29T19:38:18.494Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (18 ms) 200
+[2021-11-29T19:38:18.748Z] debug GET /teams?_sort=created_at:asc&_limit=5 (19 ms) 200
+[2021-11-29T19:38:40.547Z] debug POST /admin/login (146 ms) 200
+[2021-11-29T19:38:40.894Z] debug GET /admin/information (43 ms) 200
+[2021-11-29T19:38:40.937Z] debug GET /i18n/locales (82 ms) 404
+[2021-11-29T19:38:41.195Z] debug GET /content-manager/content-types (69 ms) 200
+[2021-11-29T19:38:48.023Z] debug GET /admin/shallowequal.cjs.production.min.js.map (6 ms) 200
+[2021-11-29T19:39:41.293Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (36 ms) 200
+[2021-11-29T19:39:41.328Z] debug GET /teams?_sort=created_at:asc&_limit=5 (47 ms) 200
+[2021-11-29T19:40:22.301Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (25 ms) 200
+[2021-11-29T19:40:22.574Z] debug GET /teams?_sort=created_at:asc&_limit=5 (31 ms) 200
+[2021-11-29T19:40:36.948Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (16 ms) 200
+[2021-11-29T19:40:36.979Z] debug GET /teams?_sort=created_at:asc&_limit=5 (18 ms) 200
+[2021-11-29T19:40:49.395Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (17 ms) 200
+[2021-11-29T19:40:49.694Z] debug GET /teams?_sort=created_at:asc&_limit=5 (25 ms) 200
+[2021-11-29T19:41:02.929Z] debug GET /teams?_sort=created_at:asc&_limit=5 (43 ms) 200
+[2021-11-29T19:41:02.934Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (40 ms) 200
+[2021-11-29T19:41:22.928Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (17 ms) 200
+[2021-11-29T19:41:23.211Z] debug GET /teams?_sort=created_at:asc (24 ms) 200
+[2021-11-29T19:41:23.471Z] debug GET /videos?type_eq=Presentation (1 ms) 404
+[2021-11-29T19:41:23.494Z] debug GET /videos?type_eq=Shonit (1 ms) 404
+[2021-11-29T19:41:23.729Z] debug GET /videos?type_eq=Shrava (3 ms) 404
+[2021-11-29T19:41:23.752Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (20 ms) 200
+[2021-11-29T19:41:23.776Z] debug GET /clients (30 ms) 200
+[2021-11-29T19:41:23.788Z] debug GET /blogs?_limit=5 (29 ms) 200
+[2021-11-29T19:41:25.317Z] debug GET /teams?_sort=created_at:asc (49 ms) 200
+[2021-11-29T19:41:25.323Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (51 ms) 200
+[2021-11-29T19:43:05.506Z] debug GET /openings (28 ms) 200
+[2021-11-29T19:43:05.519Z] debug GET /teams?_sort=created_at:asc (27 ms) 200
+[2021-11-29T19:43:47.588Z] debug GET /openings (18 ms) 200
+[2021-11-29T19:43:47.870Z] debug GET /teams?_sort=created_at:asc (21 ms) 200
+[2021-11-29T19:45:34.570Z] debug GET /openings (14 ms) 200
+[2021-11-29T19:45:34.598Z] debug GET /teams?_sort=created_at:asc (19 ms) 200
+[2021-11-29T19:45:59.326Z] debug GET /openings (13 ms) 200
+[2021-11-29T19:45:59.626Z] debug GET /teams?_sort=created_at:asc (29 ms) 200
+[2021-11-29T19:49:07.671Z] debug GET /openings (27 ms) 200
+[2021-11-29T19:49:07.711Z] debug GET /teams?_sort=created_at:asc (73 ms) 200
+[2021-11-29T19:51:44.957Z] debug GET /openings (28 ms) 200
+[2021-11-29T19:51:44.967Z] debug GET /teams?_sort=created_at:asc (32 ms) 200
+[2021-11-29T19:51:57.134Z] debug GET /openings (13 ms) 200
+[2021-11-29T19:51:57.415Z] debug GET /teams?_sort=created_at:asc (20 ms) 200
+[2021-11-29T19:52:08.158Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (45 ms) 200
+[2021-11-29T19:52:08.164Z] debug GET /teams?_sort=created_at:asc (39 ms) 200
+[2021-11-29T19:52:18.326Z] debug GET /clients (18 ms) 200
+[2021-11-29T19:52:18.592Z] debug GET /videos?type_eq=Shonit (1 ms) 404
+[2021-11-29T19:55:04.635Z] debug GET /videos?type_eq=Shrava (4 ms) 404
+[2021-11-29T19:55:04.648Z] debug GET /clients (22 ms) 200
+[2021-11-29T20:01:00.552Z] debug GET /clients (18 ms) 200
+[2021-11-29T20:02:59.007Z] debug GET /clients (29 ms) 200
+[2021-11-29T20:04:11.523Z] debug GET /clients (17 ms) 200
+[2021-11-29T20:04:36.971Z] debug GET /clients (24 ms) 200
+[2021-11-29T20:04:51.720Z] debug GET /clients (17 ms) 200
+[2021-11-29T20:09:16.201Z] debug GET /videos?type_eq=Shrava (3 ms) 404
+[2021-11-29T20:09:16.205Z] debug GET /clients (23 ms) 200
+[2021-11-29T20:12:33.792Z] debug GET /videos?type_eq=Shonit (2 ms) 404
+[2021-11-29T20:12:33.813Z] debug GET /clients (19 ms) 200
+[2021-11-29T20:12:51.065Z] debug GET /clients (15 ms) 200
+[2021-11-29T20:13:18.349Z] debug GET /videos?type_eq=Shrava (2 ms) 404
+[2021-11-29T20:13:18.366Z] debug GET /clients (15 ms) 200
+[2021-11-29T20:13:22.679Z] debug GET /clients (16 ms) 200
+[2021-11-29T20:22:17.915Z] debug GET /videos?type_eq=Shrava (2 ms) 404
+[2021-11-29T20:22:17.921Z] debug GET /videos?type_eq=Presentation (2 ms) 404
+[2021-11-29T20:22:17.934Z] debug GET /videos?type_eq=Shonit (5 ms) 404
+[2021-11-29T20:22:17.967Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (43 ms) 200
+[2021-11-29T20:22:17.979Z] debug GET /clients (47 ms) 200
+[2021-11-29T20:22:17.984Z] debug GET /blogs?_limit=5 (46 ms) 200
+[2021-11-29T20:22:47.631Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (14 ms) 200
+[2021-11-29T20:22:47.928Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (10 ms) 200
+[2021-11-29T20:22:52.061Z] debug GET /admin (2 ms) 200
+[2021-11-29T20:22:52.365Z] debug GET /admin/main.ee3d694b.chunk.js (1 ms) 200
+[2021-11-29T20:22:52.368Z] debug GET /admin/runtime~main.e591ad3f.js (2 ms) 200
+[2021-11-29T20:23:05.906Z] debug GET /content-manager/content-types/application::publication.publication/configuration (34 ms) 200
+[2021-11-29T20:23:06.200Z] debug GET /content-manager/collection-types/application::publication.publication?page=1&pageSize=10&_sort=title:ASC (40 ms) 200
+[2021-11-29T20:23:07.773Z] debug GET /admin/init (2 ms) 200
+[2021-11-29T20:23:08.210Z] debug GET /admin/842e7845f3f8e943ff712a39617b6b70.svg (1 ms) 200
+[2021-11-29T20:23:08.482Z] debug GET /admin/75614cfcfedd509b1f7ac1c26c53bb7f.woff2 (1 ms) 200
+[2021-11-29T20:23:08.488Z] debug GET /admin/a6069540692725c247f13984a9598a92.woff2 (1 ms) 200
+[2021-11-29T20:23:08.494Z] debug GET /admin/21b3848a32fce5b0f5014948186f6964.woff2 (2 ms) 200
+[2021-11-29T20:23:08.494Z] debug GET /admin/07109cdae9f760e8d97c89788c9dc9df.png (1 ms) 200
+[2021-11-29T20:24:09.808Z] debug GET /content-type-builder/components (38 ms) 200
+[2021-11-29T20:24:09.838Z] debug GET /content-type-builder/content-types (57 ms) 200
+[2021-11-29T20:24:09.868Z] debug GET /content-type-builder/reserved-names (56 ms) 200
+[2021-11-29T20:43:10.740Z] debug GET /content-manager/components (31 ms) 200
+[2021-11-29T20:43:10.833Z] debug GET /content-manager/content-types (40 ms) 200
+[2021-11-29T20:43:11.199Z] debug GET /content-manager/content-types/application::teams.teams/configuration (37 ms) 200
+[2021-11-29T20:43:11.702Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (150 ms) 200
+[2021-11-29T20:43:17.747Z] debug GET /content-manager/collection-types/application::teams.teams/3 (37 ms) 200
+[2021-11-29T20:44:08.481Z] debug PUT /content-manager/collection-types/application::teams.teams/3 (110 ms) 200
+[2021-11-29T20:44:12.320Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (38 ms) 200
+[2021-11-29T20:44:45.840Z] debug GET /content-manager/collection-types/application::teams.teams/5 (39 ms) 200
+[2021-11-29T20:44:57.575Z] debug PUT /content-manager/collection-types/application::teams.teams/5 (97 ms) 200
+[2021-11-29T20:45:00.370Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (66 ms) 200
+[2021-11-29T20:45:09.515Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (35 ms) 200
+[2021-11-29T20:45:09.520Z] debug GET /teams?_sort=created_at:asc (35 ms) 200
+[2021-11-29T20:45:43.315Z] debug GET /content-manager/collection-types/application::teams.teams/7 (35 ms) 200
+[2021-11-29T20:45:50.587Z] debug PUT /content-manager/collection-types/application::teams.teams/7 (98 ms) 200
+[2021-11-29T20:46:09.992Z] debug PUT /content-manager/collection-types/application::teams.teams/7 (111 ms) 200
+[2021-11-29T20:46:13.960Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (147 ms) 200
+[2021-11-29T20:46:26.085Z] debug GET /content-manager/collection-types/application::teams.teams/8 (33 ms) 200
+[2021-11-29T20:47:16.955Z] debug PUT /content-manager/collection-types/application::teams.teams/8 (97 ms) 200
+[2021-11-29T20:47:49.393Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (48 ms) 200
+[2021-11-29T20:47:52.361Z] debug GET /content-manager/collection-types/application::teams.teams/2 (39 ms) 200
+[2021-11-29T20:48:18.303Z] debug PUT /content-manager/collection-types/application::teams.teams/2 (106 ms) 200
+[2021-11-29T20:48:21.484Z] debug GET /content-manager/collection-types/application::teams.teams?page=1&pageSize=10&_sort=name:ASC (32 ms) 200
+[2021-11-29T20:48:24.940Z] debug GET /content-manager/collection-types/application::teams.teams/9 (31 ms) 200
+[2021-11-29T20:49:02.580Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (48 ms) 200
+[2021-11-29T20:49:02.586Z] debug GET /teams?_sort=created_at:asc (46 ms) 200
+[2021-11-29T20:49:24.961Z] debug GET /stories?year_in=2015&year_in=2016&year_in=2017 (20 ms) 200
+[2021-11-29T20:49:26.174Z] debug GET /stories?year_in=2016&year_in=2017&year_in=2018 (23 ms) 200
+[2021-11-29T20:49:29.211Z] debug GET /stories?year_in=2015&year_in=2016&year_in=2017 (16 ms) 200
+[2021-11-29T20:49:30.894Z] debug GET /stories?year_in=2016&year_in=2017&year_in=2018 (29 ms) 200
+[2021-11-29T20:49:35.929Z] debug GET /content-manager/content-types/application::story.story/configuration (28 ms) 200
+[2021-11-29T20:49:36.385Z] debug GET /content-manager/collection-types/application::story.story?page=1&pageSize=10&_sort=year:ASC (152 ms) 200
+[2021-11-29T20:49:40.119Z] debug GET /content-manager/collection-types/application::story.story/1 (28 ms) 200
+[2021-11-29T20:49:48.240Z] debug GET /content-manager/content-types/application::publication.publication/configuration (26 ms) 200
+[2021-11-29T20:49:48.558Z] debug GET /content-manager/collection-types/application::publication.publication?page=1&pageSize=10&_sort=title:ASC (35 ms) 200
+[2021-11-29T20:49:52.023Z] debug GET /content-manager/content-types/application::openings.openings/configuration (35 ms) 200
+[2021-11-29T20:49:52.296Z] debug GET /content-manager/collection-types/application::openings.openings?page=1&pageSize=10&_sort=title:ASC (25 ms) 200
+[2021-11-29T20:49:54.309Z] debug GET /content-manager/content-types/application::faq.faq/configuration (24 ms) 200
+[2021-11-29T20:49:54.595Z] debug GET /content-manager/collection-types/application::faq.faq?page=1&pageSize=10&_sort=title:ASC (41 ms) 200
+[2021-11-29T20:49:55.067Z] debug GET /content-manager/content-types/application::contactus.contactus/configuration (19 ms) 200
+[2021-11-29T20:49:55.342Z] debug GET /content-manager/collection-types/application::contactus.contactus?page=1&pageSize=10&_sort=name:ASC (24 ms) 200
+[2021-11-29T20:49:56.309Z] debug GET /content-manager/content-types/application::clients.clients/configuration (19 ms) 200
+[2021-11-29T20:49:56.674Z] debug GET /content-manager/collection-types/application::clients.clients?page=1&pageSize=10&_sort=Username:ASC (114 ms) 200
+[2021-11-29T20:49:57.568Z] debug GET /content-manager/content-types/application::bookings.bookings/configuration (18 ms) 200
+[2021-11-29T20:49:57.850Z] debug GET /content-manager/collection-types/application::bookings.bookings?page=1&pageSize=10&_sort=name:ASC (30 ms) 200
+[2021-11-29T20:50:06.413Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at:DESC (31 ms) 200
+[2021-11-29T20:50:06.430Z] debug GET /upload/files/count? (39 ms) 200
+[2021-11-29T20:50:13.325Z] debug GET /upload/files?_limit=10&_start=10&_sort=updated_at:DESC (47 ms) 200
+[2021-11-29T20:50:13.345Z] debug GET /upload/files/count? (28 ms) 200
+[2021-11-29T20:50:14.061Z] debug GET /admin/plugins/https://sigtuple2021.s3.us-east-2.amazonaws.com/shonit_v6_3973953af0.mp4 (6 ms) 200
+[2021-11-29T20:50:14.062Z] debug GET /admin/plugins/https://sigtuple2021.s3.us-east-2.amazonaws.com/shrava_v6_98703790b1.mp4 (4 ms) 200
+[2021-11-29T20:50:14.287Z] debug GET /admin/plugins/https://sigtuple2021.s3.us-east-2.amazonaws.com/video_3a3b78ffb1.mp4 (1 ms) 200
+[2021-11-29T20:50:50.650Z] debug GET /content-manager/content-types (42 ms) 200
+[2021-11-29T20:50:50.666Z] debug GET /content-manager/components (53 ms) 200
+[2021-11-29T20:50:50.931Z] debug GET /content-manager/content-types/application::publication.publication/configuration (22 ms) 200
+[2021-11-29T20:50:51.215Z] debug GET /content-manager/collection-types/application::publication.publication?page=1&pageSize=10&_sort=title:ASC (28 ms) 200
+[2021-11-29T20:50:56.625Z] debug GET /content-type-builder/components (22 ms) 200
+[2021-11-29T20:50:56.856Z] debug GET /content-type-builder/content-types (24 ms) 200
+[2021-11-29T20:50:56.871Z] debug GET /content-type-builder/reserved-names (29 ms) 200
+[2021-11-29T20:51:15.589Z] info File changed: /home/ubuntu/sigtuple-backend/api/publication/models/publication.settings.json
+[2021-11-29T20:51:15.590Z] debug PUT /content-type-builder/content-types/application::publication.publication (96 ms) 201
+[2021-11-29T20:51:15.605Z] info The server is restarting
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 20:51:23 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 6290 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 21639                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T20:51:24.188Z] debug GET /admin/users/me/permissions (85 ms) 200
+[2021-11-29T20:51:24.519Z] debug GET /content-manager/content-types-settings (82 ms) 200
+[2021-11-29T20:51:24.693Z] debug GET /content-type-builder/components (31 ms) 200
+[2021-11-29T20:51:24.723Z] debug GET /content-type-builder/content-types (54 ms) 200
+[2021-11-29T20:51:24.738Z] debug GET /content-type-builder/reserved-names (63 ms) 200
+[2021-11-29T20:51:24.788Z] debug GET /content-manager/content-types (34 ms) 200
+[2021-11-29T20:59:38.882Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at:DESC (106 ms) 200
+[2021-11-29T20:59:38.885Z] debug GET /upload/files/count? (101 ms) 200
+[2021-11-29T20:59:40.935Z] debug GET /content-type-builder/components (78 ms) 200
+[2021-11-29T20:59:40.966Z] debug GET /content-type-builder/reserved-names (104 ms) 200
+[2021-11-29T20:59:41.007Z] debug GET /content-type-builder/content-types (141 ms) 200
+[2021-11-29T20:59:41.688Z] debug GET /content-manager/components (37 ms) 200
+[2021-11-29T20:59:41.734Z] debug GET /content-manager/content-types (43 ms) 200
+[2021-11-29T20:59:42.000Z] debug GET /content-manager/content-types/application::publication.publication/configuration (33 ms) 200
+[2021-11-29T20:59:42.297Z] debug GET /content-manager/collection-types/application::publication.publication?page=1&pageSize=10&_sort=title:ASC (54 ms) 200
+[2021-11-29T20:59:47.732Z] debug GET /content-type-builder/content-types (35 ms) 200
+[2021-11-29T20:59:47.764Z] debug GET /content-type-builder/reserved-names (57 ms) 200
+[2021-11-29T20:59:47.797Z] debug GET /content-type-builder/components (26 ms) 200
+[2021-11-29T21:00:02.004Z] info File changed: /home/ubuntu/sigtuple-backend/api/publication/models/publication.settings.json
+[2021-11-29T21:00:02.005Z] debug PUT /content-type-builder/content-types/application::publication.publication (79 ms) 201
+[2021-11-29T21:00:02.008Z] info The server is restarting
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 21:00:07 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 4804 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 21667                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T21:00:08.532Z] debug GET /admin/users/me/permissions (84 ms) 200
+[2021-11-29T21:00:08.865Z] debug GET /content-manager/content-types-settings (80 ms) 200
+[2021-11-29T21:00:09.053Z] debug GET /content-type-builder/components (35 ms) 200
+[2021-11-29T21:00:09.069Z] debug GET /content-type-builder/reserved-names (46 ms) 200
+[2021-11-29T21:00:09.086Z] debug GET /content-type-builder/content-types (59 ms) 200
+[2021-11-29T21:00:09.140Z] debug GET /content-manager/content-types (39 ms) 200
+[2021-11-29T21:02:39.649Z] debug GET /videos?type_eq=Presentation (12 ms) 404
+[2021-11-29T21:02:39.667Z] debug GET /videos?type_eq=Shonit (6 ms) 404
+[2021-11-29T21:02:39.676Z] debug GET /videos?type_eq=Shrava (11 ms) 404
+[2021-11-29T21:02:39.713Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (61 ms) 200
+[2021-11-29T21:02:39.732Z] debug GET /clients (61 ms) 200
+[2021-11-29T21:02:39.738Z] debug GET /blogs?_limit=5 (60 ms) 200
+[2021-11-29T21:03:33.663Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (38 ms) 200
+[2021-11-29T21:03:33.670Z] debug GET /teams?_sort=created_at:asc (39 ms) 200
+[2021-11-29T21:03:48.403Z] debug GET /videos?type_eq=Shonit (4 ms) 404
+[2021-11-29T21:03:48.417Z] debug GET /clients (23 ms) 200
+[2021-11-29T21:04:13.508Z] debug GET /videos?type_eq=Shrava (4 ms) 404
+[2021-11-29T21:04:13.525Z] debug GET /clients (27 ms) 200
+[2021-11-29T21:04:40.095Z] debug GET /clients (22 ms) 200
+[2021-11-29T21:05:30.521Z] debug GET /blogs?_limit=10 (23 ms) 200
+[2021-11-29T21:11:45.219Z] info File created: /home/ubuntu/sigtuple-backend/api/videos/config/routes.json
+[2021-11-29T21:11:45.220Z] info File created: /home/ubuntu/sigtuple-backend/api/videos/controllers/videos.js
+[2021-11-29T21:11:45.221Z] info File created: /home/ubuntu/sigtuple-backend/api/videos/models/videos.js
+[2021-11-29T21:11:45.221Z] info File created: /home/ubuntu/sigtuple-backend/api/videos/models/videos.settings.json
+[2021-11-29T21:11:45.222Z] info File created: /home/ubuntu/sigtuple-backend/api/videos/services/videos.js
+[2021-11-29T21:11:45.363Z] debug POST /content-type-builder/content-types (298 ms) 201
+[2021-11-29T21:11:45.364Z] info The server is restarting
+
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Mon Nov 29 2021 21:11:51 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 5106 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 21739                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 3.6.6 (node v14.17.2)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2021-11-29T21:11:52.025Z] debug GET /admin/users/me/permissions (79 ms) 200
+[2021-11-29T21:11:52.353Z] debug GET /content-manager/content-types-settings (88 ms) 200
+[2021-11-29T21:11:52.545Z] debug GET /content-type-builder/content-types (46 ms) 200
+[2021-11-29T21:11:52.577Z] debug GET /content-type-builder/components (74 ms) 200
+[2021-11-29T21:11:52.611Z] debug GET /content-type-builder/reserved-names (62 ms) 200
+[2021-11-29T21:11:52.639Z] debug GET /content-manager/content-types (53 ms) 200
+[2021-11-29T21:12:13.176Z] debug GET /content-manager/components (44 ms) 200
+[2021-11-29T21:12:13.220Z] debug GET /content-manager/content-types (81 ms) 200
+[2021-11-29T21:12:13.511Z] debug GET /content-manager/content-types/application::videos.videos/configuration (46 ms) 200
+[2021-11-29T21:12:13.839Z] debug GET /content-manager/collection-types/application::videos.videos?page=1&pageSize=10&_sort=id:ASC (77 ms) 200
+[2021-11-29T21:12:25.774Z] debug GET /blogs?_limit=10 (23 ms) 200
+[2021-11-29T21:12:28.937Z] debug GET /videos?type_eq=Presentation (9 ms) 403
+[2021-11-29T21:12:29.188Z] debug GET /videos?type_eq=Shonit (32 ms) 403
+[2021-11-29T21:12:29.196Z] debug GET /videos?type_eq=Shrava (36 ms) 403
+[2021-11-29T21:12:29.225Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (52 ms) 200
+[2021-11-29T21:12:29.238Z] debug GET /clients (69 ms) 200
+[2021-11-29T21:12:29.245Z] debug GET /blogs?_limit=5 (66 ms) 200
+[2021-11-29T21:12:48.713Z] debug GET /content-manager/collection-types/application::videos.videos/1 (65 ms) 200
+[2021-11-29T21:12:51.868Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at%3ADESC (43 ms) 200
+[2021-11-29T21:12:52.105Z] debug GET /upload/files/count? (48 ms) 200
+[2021-11-29T21:13:00.186Z] debug GET /upload/files?_limit=100&_start=0&_sort=updated_at%3ADESC (57 ms) 200
+[2021-11-29T21:13:00.245Z] debug GET /upload/files/count? (84 ms) 200
+[2021-11-29T21:13:19.907Z] debug PUT /content-manager/collection-types/application::videos.videos/1 (152 ms) 200
+[2021-11-29T21:13:27.049Z] debug GET /videos?type_eq=Presentation (29 ms) 403
+[2021-11-29T21:13:27.074Z] debug GET /videos?type_eq=Shonit (44 ms) 403
+[2021-11-29T21:13:27.076Z] debug GET /videos?type_eq=Shrava (43 ms) 403
+[2021-11-29T21:13:27.100Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (60 ms) 200
+[2021-11-29T21:13:27.111Z] debug GET /clients (65 ms) 200
+[2021-11-29T21:13:27.116Z] debug GET /blogs?_limit=5 (65 ms) 200
+[2021-11-29T21:13:48.836Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at%3ADESC (50 ms) 200
+[2021-11-29T21:13:48.857Z] debug GET /upload/files/count? (66 ms) 200
+[2021-11-29T21:14:04.044Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at%3ADESC (43 ms) 200
+[2021-11-29T21:14:04.072Z] debug GET /upload/files/count? (57 ms) 200
+[2021-11-29T21:15:50.722Z] debug POST /upload (2564 ms) 200
+[2021-11-29T21:15:51.039Z] debug GET /upload/files?_limit=10&_start=0&_sort=updated_at%3ADESC (30 ms) 200
+[2021-11-29T21:15:51.256Z] debug GET /upload/files/count? (22 ms) 200
+[2021-11-29T21:15:57.263Z] debug PUT /content-manager/collection-types/application::videos.videos/1 (87 ms) 200
+[2021-11-29T21:16:03.334Z] debug GET /videos?type_eq=Presentation (13 ms) 403
+[2021-11-29T21:16:03.358Z] debug GET /videos?type_eq=Shonit (29 ms) 403
+[2021-11-29T21:16:03.386Z] debug GET /videos?type_eq=Shrava (38 ms) 403
+[2021-11-29T21:16:03.409Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (66 ms) 200
+[2021-11-29T21:16:03.424Z] debug GET /clients (61 ms) 200
+[2021-11-29T21:16:03.429Z] debug GET /blogs?_limit=5 (61 ms) 200
+[2021-11-29T21:16:25.817Z] debug GET /content-manager/collection-types/application::videos.videos?page=1&pageSize=10&_sort=id:ASC (45 ms) 200
+[2021-11-29T21:16:31.368Z] debug GET /content-manager/collection-types/application::videos.videos/1 (36 ms) 200
+[2021-11-29T21:16:32.123Z] debug GET /admin/plugins/content-manager/collectionType/application::videos.videos/https://sigtuple2021.s3.us-east-2.amazonaws.com/labg_dd6ec0878e.mp4 (6 ms) 200
+[2021-11-29T21:16:44.223Z] debug GET /content-manager/collection-types/application::videos.videos?page=1&pageSize=10&_sort=id:ASC (38 ms) 200
+[2021-11-29T21:19:33.797Z] debug GET /videos?type_eq=Presentation (36 ms) 403
+[2021-11-29T21:19:33.806Z] debug GET /videos?type_eq=Shonit (37 ms) 403
+[2021-11-29T21:19:33.808Z] debug GET /videos?type_eq=Shrava (33 ms) 403
+[2021-11-29T21:19:33.838Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (53 ms) 200
+[2021-11-29T21:19:33.846Z] debug GET /clients (65 ms) 200
+[2021-11-29T21:19:33.851Z] debug GET /blogs?_limit=5 (57 ms) 200
+[2021-11-29T21:33:46.125Z] debug GET /videos?type_eq=Presentation (42 ms) 403
+[2021-11-29T21:33:46.135Z] debug GET /videos?type_eq=Shonit (46 ms) 403
+[2021-11-29T21:33:46.140Z] debug GET /videos?type_eq=Shrava (42 ms) 403
+[2021-11-29T21:33:46.171Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (69 ms) 200
+[2021-11-29T21:33:46.185Z] debug GET /clients (78 ms) 200
+[2021-11-29T21:33:46.198Z] debug GET /blogs?_limit=5 (79 ms) 200
+[2021-11-29T21:34:58.222Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (16 ms) 200
+[2021-11-29T21:34:58.566Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (11 ms) 200
+[2021-11-29T21:35:14.037Z] debug GET /openings (24 ms) 200
+[2021-11-29T21:35:14.049Z] debug GET /teams?_sort=created_at:asc (42 ms) 200
+[2021-11-29T21:38:07.916Z] debug GET /openings (43 ms) 200
+[2021-11-29T21:38:07.927Z] debug GET /teams?_sort=created_at:asc (47 ms) 200
+[2021-11-29T21:44:32.749Z] debug GET /openings (27 ms) 200
+[2021-11-29T21:44:32.759Z] debug GET /teams?_sort=created_at:asc (31 ms) 200
+[2021-11-29T21:44:35.682Z] debug GET /videos?type_eq=Shonit (15 ms) 403
+[2021-11-29T21:44:35.685Z] debug GET /clients (28 ms) 200
+[2021-11-29T21:52:10.688Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-29T21:52:10.697Z] debug GET /clients (29 ms) 200
+[2021-11-29T21:52:13.136Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-29T21:52:13.147Z] debug GET /clients (20 ms) 200
+[2021-11-29T21:52:25.498Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-29T21:52:25.510Z] debug GET /clients (22 ms) 200
+[2021-11-29T21:53:02.627Z] debug GET /videos?type_eq=Presentation (8 ms) 403
+[2021-11-29T21:53:02.869Z] debug GET /videos?type_eq=Shonit (25 ms) 403
+[2021-11-29T21:53:02.880Z] debug GET /videos?type_eq=Shrava (24 ms) 403
+[2021-11-29T21:53:02.895Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (46 ms) 200
+[2021-11-29T21:53:02.909Z] debug GET /clients (50 ms) 200
+[2021-11-29T21:53:02.914Z] debug GET /blogs?_limit=5 (50 ms) 200
+[2021-11-29T21:53:08.607Z] debug GET /videos?type_eq=Shonit (10 ms) 403
+[2021-11-29T21:53:08.619Z] debug GET /clients (28 ms) 200
+[2021-11-29T21:53:23.374Z] debug GET /clients (17 ms) 200
+[2021-11-29T21:53:23.584Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T07:46:14.844Z] debug GET /videos?type_eq=Presentation (51 ms) 403
+[2021-11-30T07:46:14.846Z] debug GET /videos?type_eq=Shrava (42 ms) 403
+[2021-11-30T07:46:14.866Z] debug GET /videos?type_eq=Shonit (52 ms) 403
+[2021-11-30T07:46:14.885Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (76 ms) 200
+[2021-11-30T07:46:14.897Z] debug GET /clients (78 ms) 200
+[2021-11-30T07:46:14.903Z] debug GET /blogs?_limit=5 (81 ms) 200
+[2021-11-30T07:48:25.522Z] debug GET /teams?_sort=created_at:asc (46 ms) 200
+[2021-11-30T07:48:25.526Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (45 ms) 200
+[2021-11-30T07:48:51.308Z] debug GET /clients (38 ms) 200
+[2021-11-30T07:49:17.760Z] debug GET /clients (56 ms) 200
+[2021-11-30T07:49:17.782Z] debug GET /videos?type_eq=Shonit (63 ms) 403
+[2021-11-30T07:50:05.764Z] debug GET /videos?type_eq=Shonit (15 ms) 403
+[2021-11-30T07:50:05.767Z] debug GET /clients (28 ms) 200
+[2021-11-30T07:51:11.654Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (32 ms) 200
+[2021-11-30T07:51:11.938Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (9 ms) 200
+[2021-11-30T07:51:23.851Z] debug GET /blogs?_limit=10 (20 ms) 200
+[2021-11-30T07:51:31.730Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (16 ms) 200
+[2021-11-30T07:51:31.975Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-11-30T07:51:36.099Z] debug GET /blogs?_limit=10 (25 ms) 200
+[2021-11-30T07:51:44.150Z] debug GET /openings (22 ms) 200
+[2021-11-30T07:51:44.372Z] debug GET /teams?_sort=created_at:asc (19 ms) 200
+[2021-11-30T07:52:28.479Z] debug GET /faqs?type_eq=general&_limit=5 (21 ms) 200
+[2021-11-30T07:52:28.725Z] debug GET /faqs/count?type_eq=general (9 ms) 200
+[2021-11-30T09:26:06.375Z] debug GET /faqs?type_eq=general&_limit=5 (14 ms) 200
+[2021-11-30T09:26:06.612Z] debug GET /faqs/count?type_eq=general (8 ms) 200
+[2021-11-30T16:04:52.618Z] debug GET index.html (16 ms) 200
+[2021-11-30T16:04:52.673Z] debug GET index.html (8 ms) 200
+[2021-11-30T16:19:58.562Z] debug GET index.html (8 ms) 200
+[2021-11-30T16:20:09.410Z] debug GET index.html (6 ms) 200
+[2021-11-30T16:33:11.632Z] debug GET /videos?type_eq=Presentation (33 ms) 403
+[2021-11-30T16:33:11.639Z] debug GET /videos?type_eq=Shonit (34 ms) 403
+[2021-11-30T16:33:11.649Z] debug GET /videos?type_eq=Shrava (28 ms) 403
+[2021-11-30T16:33:11.666Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (57 ms) 200
+[2021-11-30T16:33:11.677Z] debug GET /clients (62 ms) 200
+[2021-11-30T16:33:11.682Z] debug GET /blogs?_limit=5 (56 ms) 200
+[2021-11-30T16:35:17.586Z] debug GET /videos?type_eq=Presentation (8 ms) 403
+[2021-11-30T16:35:17.615Z] debug GET /videos?type_eq=Shrava (26 ms) 403
+[2021-11-30T16:35:17.622Z] debug GET /videos?type_eq=Shonit (28 ms) 403
+[2021-11-30T16:35:17.651Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (50 ms) 200
+[2021-11-30T16:35:17.664Z] debug GET /clients (58 ms) 200
+[2021-11-30T16:35:17.668Z] debug GET /blogs?_limit=5 (58 ms) 200
+[2021-11-30T16:35:32.054Z] debug GET /videos?type_eq=Presentation (27 ms) 403
+[2021-11-30T16:35:32.074Z] debug GET /videos?type_eq=Shrava (35 ms) 403
+[2021-11-30T16:35:32.076Z] debug GET /videos?type_eq=Shonit (32 ms) 403
+[2021-11-30T16:35:32.088Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (55 ms) 200
+[2021-11-30T16:35:32.111Z] debug GET /clients (61 ms) 200
+[2021-11-30T16:35:32.115Z] debug GET /blogs?_limit=5 (58 ms) 200
+[2021-11-30T16:38:12.061Z] debug GET /videos?type_eq=Presentation (29 ms) 403
+[2021-11-30T16:38:12.075Z] debug GET /videos?type_eq=Shonit (33 ms) 403
+[2021-11-30T16:38:12.078Z] debug GET /videos?type_eq=Shrava (30 ms) 403
+[2021-11-30T16:38:12.095Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (56 ms) 200
+[2021-11-30T16:38:12.112Z] debug GET /clients (57 ms) 200
+[2021-11-30T16:38:12.117Z] debug GET /blogs?_limit=5 (49 ms) 200
+[2021-11-30T16:38:20.753Z] debug GET /clients (22 ms) 200
+[2021-11-30T16:38:20.758Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-30T16:50:34.882Z] debug GET /videos?type_eq=Shonit (22 ms) 403
+[2021-11-30T16:50:34.891Z] debug GET /videos?type_eq=Presentation (26 ms) 403
+[2021-11-30T16:50:34.903Z] debug GET /videos?type_eq=Shrava (30 ms) 403
+[2021-11-30T16:50:34.935Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (56 ms) 200
+[2021-11-30T16:50:34.947Z] debug GET /clients (61 ms) 200
+[2021-11-30T16:50:34.952Z] debug GET /blogs?_limit=5 (57 ms) 200
+[2021-11-30T16:52:28.328Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-30T16:52:28.339Z] debug GET /clients (29 ms) 200
+[2021-11-30T16:53:26.329Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T16:54:09.051Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T16:54:27.795Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T16:54:38.204Z] debug GET /videos?type_eq=Shonit (5 ms) 403
+[2021-11-30T16:54:40.038Z] debug GET /videos?type_eq=Shonit (25 ms) 403
+[2021-11-30T16:54:40.050Z] debug GET /clients (32 ms) 200
+[2021-11-30T16:54:55.871Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:55:04.866Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:56:08.404Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T16:56:15.205Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T16:56:22.486Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:57:09.483Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:57:21.653Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T16:58:25.804Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T16:59:00.780Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:59:06.335Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T16:59:15.145Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:00:17.607Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:01:37.276Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:03:14.619Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T17:04:16.166Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T17:07:54.139Z] debug GET /videos?type_eq=Shonit (12 ms) 403
+[2021-11-30T17:07:54.150Z] debug GET /clients (29 ms) 200
+[2021-11-30T17:08:04.208Z] debug GET /clients (17 ms) 200
+[2021-11-30T17:08:04.459Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T17:08:48.574Z] debug GET /videos?type_eq=Shonit (12 ms) 403
+[2021-11-30T17:08:48.584Z] debug GET /clients (27 ms) 200
+[2021-11-30T17:10:14.347Z] debug GET /clients (21 ms) 200
+[2021-11-30T17:10:14.360Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T17:10:15.336Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:10:15.357Z] debug GET /clients (16 ms) 200
+[2021-11-30T17:13:25.449Z] debug GET /videos?type_eq=Presentation (34 ms) 403
+[2021-11-30T17:13:25.456Z] debug GET /videos?type_eq=Shonit (32 ms) 403
+[2021-11-30T17:13:25.466Z] debug GET /videos?type_eq=Shrava (30 ms) 403
+[2021-11-30T17:13:25.495Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (65 ms) 200
+[2021-11-30T17:13:25.508Z] debug GET /clients (67 ms) 200
+[2021-11-30T17:13:25.512Z] debug GET /blogs?_limit=5 (66 ms) 200
+[2021-11-30T17:13:44.942Z] debug GET /videos?type_eq=Shonit (11 ms) 403
+[2021-11-30T17:13:44.949Z] debug GET /clients (27 ms) 200
+[2021-11-30T17:13:49.196Z] debug GET /videos?type_eq=Shonit (11 ms) 403
+[2021-11-30T17:13:49.205Z] debug GET /clients (25 ms) 200
+[2021-11-30T17:18:21.468Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-11-30T17:18:23.667Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-30T17:18:23.679Z] debug GET /clients (22 ms) 200
+[2021-11-30T17:19:07.000Z] debug GET /videos?type_eq=Shonit (14 ms) 403
+[2021-11-30T17:19:07.012Z] debug GET /clients (20 ms) 200
+[2021-11-30T17:21:18.125Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T17:21:19.798Z] debug GET /clients (20 ms) 200
+[2021-11-30T17:21:19.802Z] debug GET /videos?type_eq=Shonit (11 ms) 403
+[2021-11-30T17:21:34.927Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T17:21:36.140Z] debug GET /videos?type_eq=Shonit (16 ms) 403
+[2021-11-30T17:21:36.151Z] debug GET /clients (23 ms) 200
+[2021-11-30T17:22:25.460Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:22:27.514Z] debug GET /videos?type_eq=Shonit (13 ms) 403
+[2021-11-30T17:22:27.529Z] debug GET /clients (23 ms) 200
+[2021-11-30T17:22:35.432Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-11-30T17:22:37.139Z] debug GET /clients (25 ms) 200
+[2021-11-30T17:22:37.141Z] debug GET /videos?type_eq=Shonit (14 ms) 403
+[2021-11-30T17:23:08.393Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-11-30T17:23:10.313Z] debug GET /videos?type_eq=Shonit (11 ms) 403
+[2021-11-30T17:23:10.334Z] debug GET /clients (41 ms) 200
+[2021-11-30T17:24:07.123Z] debug GET /videos?type_eq=Shonit (12 ms) 403
+[2021-11-30T17:24:07.135Z] debug GET /clients (30 ms) 200
+[2021-11-30T17:24:17.506Z] debug GET /clients (17 ms) 200
+[2021-11-30T17:24:17.740Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T17:49:12.584Z] debug GET /videos?type_eq=Presentation (17 ms) 403
+[2021-11-30T17:49:12.607Z] debug GET /videos?type_eq=Shrava (31 ms) 403
+[2021-11-30T17:49:12.612Z] debug GET /videos?type_eq=Shonit (31 ms) 403
+[2021-11-30T17:49:12.632Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (46 ms) 200
+[2021-11-30T17:49:12.643Z] debug GET /clients (53 ms) 200
+[2021-11-30T17:49:12.650Z] debug GET /blogs?_limit=5 (53 ms) 200
+[2021-11-30T18:57:04.050Z] debug GET index.html (9 ms) 200
+[2021-11-30T18:57:04.103Z] debug GET index.html (7 ms) 200
+[2021-11-30T23:47:59.967Z] debug GET /clients (23 ms) 200
+[2021-11-30T23:47:59.971Z] debug GET /videos?type_eq=Shrava (11 ms) 403
+[2021-11-30T23:48:21.584Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:48:25.072Z] debug GET /clients (23 ms) 200
+[2021-11-30T23:48:25.378Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:48:56.571Z] debug GET /videos?type_eq=Shrava (11 ms) 403
+[2021-11-30T23:48:59.181Z] debug GET /videos?type_eq=Shrava (13 ms) 403
+[2021-11-30T23:48:59.192Z] debug GET /clients (20 ms) 200
+[2021-11-30T23:49:17.680Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:49:28.698Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:50:20.594Z] debug GET /videos?type_eq=Shrava (8 ms) 403
+[2021-11-30T23:50:40.821Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:51:09.326Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:51:44.173Z] debug GET /videos?type_eq=Shrava (8 ms) 403
+[2021-11-30T23:51:56.142Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:52:15.451Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:52:18.014Z] debug GET /clients (17 ms) 200
+[2021-11-30T23:52:18.269Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:52:42.423Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:52:58.029Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:53:07.630Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-11-30T23:53:12.906Z] debug GET /videos?type_eq=Shrava (5 ms) 403
+[2021-11-30T23:54:06.212Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-11-30T23:54:08.039Z] debug GET /videos?type_eq=Shrava (10 ms) 403
+[2021-11-30T23:54:08.048Z] debug GET /clients (26 ms) 200
+[2021-11-30T23:54:30.964Z] debug GET /videos?type_eq=Shrava (29 ms) 403
+[2021-11-30T23:54:30.972Z] debug GET /videos?type_eq=Presentation (32 ms) 403
+[2021-11-30T23:54:30.982Z] debug GET /videos?type_eq=Shonit (35 ms) 403
+[2021-11-30T23:54:31.002Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (51 ms) 200
+[2021-11-30T23:54:31.014Z] debug GET /blogs?_limit=5 (58 ms) 200
+[2021-11-30T23:54:31.019Z] debug GET /clients (58 ms) 200
+[2021-11-30T23:58:39.824Z] debug GET /videos?type_eq=Presentation (30 ms) 403
+[2021-11-30T23:58:39.886Z] debug GET /videos?type_eq=Shonit (85 ms) 403
+[2021-11-30T23:58:39.956Z] debug GET /videos?type_eq=Shrava (149 ms) 403
+[2021-11-30T23:58:40.000Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (182 ms) 200
+[2021-11-30T23:58:40.020Z] debug GET /blogs?_limit=5 (207 ms) 200
+[2021-11-30T23:58:40.024Z] debug GET /clients (202 ms) 200
+[2021-12-01T00:00:26.046Z] debug GET /videos?type_eq=Shonit (8 ms) 403
+[2021-12-01T00:01:19.462Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-12-01T00:01:21.841Z] debug GET /videos?type_eq=Presentation (18 ms) 403
+[2021-12-01T00:01:22.107Z] debug GET /videos?type_eq=Shonit (22 ms) 403
+[2021-12-01T00:01:22.116Z] debug GET /videos?type_eq=Shrava (26 ms) 403
+[2021-12-01T00:01:22.145Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (42 ms) 200
+[2021-12-01T00:01:22.154Z] debug GET /clients (56 ms) 200
+[2021-12-01T00:01:22.164Z] debug GET /blogs?_limit=5 (54 ms) 200
+[2021-12-01T00:03:57.116Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T00:04:50.626Z] debug GET /videos?type_eq=Shrava (8 ms) 403
+[2021-12-01T00:05:12.993Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T00:05:46.410Z] debug GET /videos?type_eq=Shrava (8 ms) 403
+[2021-12-01T00:07:32.744Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T00:07:38.009Z] debug GET /videos?type_eq=Shonit (6 ms) 403
+[2021-12-01T00:07:38.305Z] debug GET /videos?type_eq=Shrava (31 ms) 403
+[2021-12-01T00:07:38.312Z] debug GET /videos?type_eq=Presentation (32 ms) 403
+[2021-12-01T00:07:38.328Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (60 ms) 200
+[2021-12-01T00:07:38.354Z] debug GET /blogs?_limit=5 (72 ms) 200
+[2021-12-01T00:07:38.364Z] debug GET /clients (76 ms) 200
+[2021-12-01T00:07:46.517Z] debug GET /videos?type_eq=Presentation (7 ms) 403
+[2021-12-01T00:07:46.810Z] debug GET /videos?type_eq=Shrava (38 ms) 403
+[2021-12-01T00:07:46.816Z] debug GET /videos?type_eq=Shonit (40 ms) 403
+[2021-12-01T00:07:46.845Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (56 ms) 200
+[2021-12-01T00:07:46.856Z] debug GET /clients (57 ms) 200
+[2021-12-01T00:07:46.861Z] debug GET /blogs?_limit=5 (55 ms) 200
+[2021-12-01T00:07:58.775Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T00:10:12.826Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T00:11:34.766Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-12-01T00:13:24.639Z] debug GET /clients (18 ms) 200
+[2021-12-01T00:14:26.573Z] debug GET /clients (16 ms) 200
+[2021-12-01T00:15:29.493Z] debug GET /clients (17 ms) 200
+[2021-12-01T00:15:41.489Z] debug GET /clients (15 ms) 200
+[2021-12-01T00:15:54.195Z] debug GET /clients (20 ms) 200
+[2021-12-01T00:18:06.570Z] debug GET /clients (31 ms) 200
+[2021-12-01T00:18:37.249Z] debug GET /videos?type_eq=Presentation (15 ms) 403
+[2021-12-01T00:18:37.284Z] debug GET /videos?type_eq=Shonit (33 ms) 403
+[2021-12-01T00:18:37.286Z] debug GET /videos?type_eq=Shrava (29 ms) 403
+[2021-12-01T00:18:37.307Z] debug GET /blogs?_limit=5 (64 ms) 200
+[2021-12-01T00:18:37.312Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (50 ms) 200
+[2021-12-01T00:18:37.315Z] debug GET /clients (69 ms) 200
+[2021-12-01T00:18:38.964Z] debug GET /videos?type_eq=Presentation (44 ms) 403
+[2021-12-01T00:18:38.966Z] debug GET /videos?type_eq=Shonit (43 ms) 403
+[2021-12-01T00:18:38.970Z] debug GET /videos?type_eq=Shrava (39 ms) 403
+[2021-12-01T00:18:38.988Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (60 ms) 200
+[2021-12-01T00:18:39.000Z] debug GET /blogs?_limit=5 (84 ms) 200
+[2021-12-01T00:18:39.003Z] debug GET /clients (66 ms) 200
+[2021-12-01T00:21:14.629Z] debug GET /clients (14 ms) 200
+[2021-12-01T00:21:16.184Z] debug GET /videos?type_eq=Presentation (13 ms) 403
+[2021-12-01T00:21:16.186Z] debug GET /videos?type_eq=Shonit (11 ms) 403
+[2021-12-01T00:21:16.447Z] debug GET /videos?type_eq=Shrava (17 ms) 403
+[2021-12-01T00:21:16.475Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (40 ms) 200
+[2021-12-01T00:21:16.490Z] debug GET /blogs?_limit=5 (48 ms) 200
+[2021-12-01T00:21:16.493Z] debug GET /clients (42 ms) 200
+[2021-12-01T00:21:38.325Z] debug GET /clients (16 ms) 200
+[2021-12-01T00:21:55.581Z] debug GET /clients (19 ms) 200
+[2021-12-01T00:22:16.032Z] debug GET /videos?type_eq=Presentation (7 ms) 403
+[2021-12-01T00:22:16.410Z] debug GET /videos?type_eq=Shonit (37 ms) 403
+[2021-12-01T00:22:16.427Z] debug GET /videos?type_eq=Shrava (43 ms) 403
+[2021-12-01T00:22:16.522Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (143 ms) 200
+[2021-12-01T00:22:16.570Z] debug GET /blogs?_limit=5 (180 ms) 200
+[2021-12-01T00:22:16.573Z] debug GET /clients (171 ms) 200
+[2021-12-01T00:22:26.662Z] debug GET /videos?type_eq=Presentation (26 ms) 403
+[2021-12-01T00:22:26.670Z] debug GET /videos?type_eq=Shonit (28 ms) 403
+[2021-12-01T00:22:26.682Z] debug GET /videos?type_eq=Shrava (28 ms) 403
+[2021-12-01T00:22:26.702Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (44 ms) 200
+[2021-12-01T00:22:26.710Z] debug GET /clients (62 ms) 200
+[2021-12-01T00:22:26.714Z] debug GET /blogs?_limit=5 (49 ms) 200
+[2021-12-01T00:22:55.170Z] debug GET /clients (16 ms) 200
+[2021-12-01T00:22:57.001Z] debug GET /videos?type_eq=Presentation (7 ms) 403
+[2021-12-01T00:22:57.014Z] debug GET /videos?type_eq=Shonit (7 ms) 403
+[2021-12-01T00:22:57.355Z] debug GET /videos?type_eq=Shrava (21 ms) 403
+[2021-12-01T00:22:57.385Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (40 ms) 200
+[2021-12-01T00:22:57.392Z] debug GET /clients (52 ms) 200
+[2021-12-01T00:22:57.396Z] debug GET /blogs?_limit=5 (45 ms) 200
+[2021-12-01T00:24:48.839Z] debug GET /clients (18 ms) 200
+[2021-12-01T00:24:50.171Z] debug GET /videos?type_eq=Presentation (10 ms) 403
+[2021-12-01T00:24:50.176Z] debug GET /videos?type_eq=Shonit (9 ms) 403
+[2021-12-01T00:24:50.437Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-12-01T00:24:50.504Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (58 ms) 200
+[2021-12-01T00:24:50.508Z] debug GET /clients (68 ms) 200
+[2021-12-01T00:24:50.516Z] debug GET /blogs?_limit=5 (53 ms) 200
+[2021-12-01T00:25:12.077Z] debug GET /clients (19 ms) 200
+[2021-12-01T00:25:39.656Z] debug GET /clients (17 ms) 200
+[2021-12-01T00:26:33.119Z] debug GET /clients (17 ms) 200
+[2021-12-01T00:26:43.997Z] debug GET /clients (16 ms) 200
+[2021-12-01T00:31:56.114Z] debug GET /videos?type_eq=Presentation (26 ms) 403
+[2021-12-01T00:31:56.138Z] debug GET /videos?type_eq=Shonit (36 ms) 403
+[2021-12-01T00:31:56.142Z] debug GET /videos?type_eq=Shrava (32 ms) 403
+[2021-12-01T00:31:56.162Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (44 ms) 200
+[2021-12-01T00:31:56.173Z] debug GET /clients (51 ms) 200
+[2021-12-01T00:31:56.177Z] debug GET /blogs?_limit=5 (50 ms) 200
+[2021-12-01T00:31:57.113Z] debug GET /videos?type_eq=Presentation (42 ms) 403
+[2021-12-01T00:31:57.117Z] debug GET /videos?type_eq=Shrava (40 ms) 403
+[2021-12-01T00:31:57.119Z] debug GET /videos?type_eq=Shonit (36 ms) 403
+[2021-12-01T00:31:57.140Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (66 ms) 200
+[2021-12-01T00:31:57.148Z] debug GET /blogs?_limit=5 (83 ms) 200
+[2021-12-01T00:31:57.152Z] debug GET /clients (83 ms) 200
+[2021-12-01T00:32:02.735Z] debug GET /videos?type_eq=Shrava (22 ms) 403
+[2021-12-01T00:32:02.754Z] debug GET /videos?type_eq=Shonit (30 ms) 403
+[2021-12-01T00:32:02.761Z] debug GET /videos?type_eq=Presentation (29 ms) 403
+[2021-12-01T00:32:02.781Z] debug GET /blogs?_limit=5 (64 ms) 200
+[2021-12-01T00:32:02.789Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (50 ms) 200
+[2021-12-01T00:32:02.792Z] debug GET /clients (64 ms) 200
+[2021-12-01T00:32:10.579Z] debug GET /videos?type_eq=Presentation (39 ms) 403
+[2021-12-01T00:32:10.587Z] debug GET /videos?type_eq=Shonit (33 ms) 403
+[2021-12-01T00:32:10.599Z] debug GET /videos?type_eq=Shrava (28 ms) 403
+[2021-12-01T00:32:10.614Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (53 ms) 200
+[2021-12-01T00:32:10.624Z] debug GET /clients (57 ms) 200
+[2021-12-01T00:32:10.628Z] debug GET /blogs?_limit=5 (52 ms) 200
+[2021-12-01T00:39:03.291Z] debug GET /videos?type_eq=Presentation (36 ms) 403
+[2021-12-01T00:39:03.303Z] debug GET /videos?type_eq=Shonit (38 ms) 403
+[2021-12-01T00:39:03.307Z] debug GET /videos?type_eq=Shrava (34 ms) 403
+[2021-12-01T00:39:03.326Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (56 ms) 200
+[2021-12-01T00:39:03.329Z] debug GET /clients (68 ms) 200
+[2021-12-01T00:39:03.337Z] debug GET /blogs?_limit=5 (52 ms) 200
+[2021-12-01T00:40:40.556Z] debug GET /videos?type_eq=Shrava (101 ms) 403
+[2021-12-01T00:40:40.606Z] debug GET /videos?type_eq=Presentation (145 ms) 403
+[2021-12-01T00:40:40.614Z] debug GET /videos?type_eq=Shonit (149 ms) 403
+[2021-12-01T00:40:40.641Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (128 ms) 200
+[2021-12-01T00:40:40.645Z] debug GET /clients (174 ms) 200
+[2021-12-01T00:40:40.649Z] debug GET /blogs?_limit=5 (174 ms) 200
+[2021-12-01T00:40:46.371Z] debug GET /videos?type_eq=Presentation (32 ms) 403
+[2021-12-01T00:40:46.398Z] debug GET /videos?type_eq=Shonit (47 ms) 403
+[2021-12-01T00:40:46.400Z] debug GET /videos?type_eq=Shrava (43 ms) 403
+[2021-12-01T00:40:46.413Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (69 ms) 200
+[2021-12-01T00:40:46.437Z] debug GET /clients (74 ms) 200
+[2021-12-01T00:40:46.441Z] debug GET /blogs?_limit=5 (74 ms) 200
+[2021-12-01T00:43:03.236Z] debug GET /videos?type_eq=Presentation (7 ms) 403
+[2021-12-01T00:43:03.262Z] debug GET /videos?type_eq=Shonit (21 ms) 403
+[2021-12-01T00:43:03.271Z] debug GET /videos?type_eq=Shrava (27 ms) 403
+[2021-12-01T00:43:03.290Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (42 ms) 200
+[2021-12-01T00:43:03.299Z] debug GET /clients (46 ms) 200
+[2021-12-01T00:43:03.316Z] debug GET /blogs?_limit=5 (49 ms) 200
+[2021-12-01T00:44:07.901Z] debug GET /videos?type_eq=Presentation (7 ms) 403
+[2021-12-01T00:44:07.919Z] debug GET /videos?type_eq=Shonit (15 ms) 403
+[2021-12-01T00:44:07.938Z] debug GET /videos?type_eq=Shrava (26 ms) 403
+[2021-12-01T00:44:07.967Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (51 ms) 200
+[2021-12-01T00:44:07.978Z] debug GET /clients (57 ms) 200
+[2021-12-01T00:44:07.982Z] debug GET /blogs?_limit=5 (55 ms) 200
+[2021-12-01T00:44:08.483Z] debug GET /videos?type_eq=Shrava (33 ms) 403
+[2021-12-01T00:44:08.488Z] debug GET /videos?type_eq=Shonit (34 ms) 403
+[2021-12-01T00:44:08.492Z] debug GET /videos?type_eq=Presentation (31 ms) 403
+[2021-12-01T00:44:08.501Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (56 ms) 200
+[2021-12-01T00:44:08.526Z] debug GET /blogs?_limit=5 (60 ms) 200
+[2021-12-01T00:44:08.529Z] debug GET /clients (60 ms) 200
+[2021-12-01T00:44:40.508Z] debug GET /videos?type_eq=Presentation (31 ms) 403
+[2021-12-01T00:44:40.520Z] debug GET /videos?type_eq=Shonit (34 ms) 403
+[2021-12-01T00:44:40.522Z] debug GET /videos?type_eq=Shrava (31 ms) 403
+[2021-12-01T00:44:40.536Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (54 ms) 200
+[2021-12-01T00:44:40.551Z] debug GET /clients (54 ms) 200
+[2021-12-01T00:44:40.555Z] debug GET /blogs?_limit=5 (52 ms) 200
+[2021-12-01T00:44:42.641Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (12 ms) 200
+[2021-12-01T00:44:42.972Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (10 ms) 200
+[2021-12-01T00:46:49.520Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (21 ms) 200
+[2021-12-01T00:46:49.848Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T00:47:42.314Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (14 ms) 200
+[2021-12-01T00:47:42.676Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T00:49:30.031Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (13 ms) 200
+[2021-12-01T00:49:30.322Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T00:53:40.645Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (13 ms) 200
+[2021-12-01T00:53:40.938Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (19 ms) 200
+[2021-12-01T00:53:41.192Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T00:53:41.225Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (12 ms) 200
+[2021-12-01T00:53:41.575Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T00:53:42.085Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T00:53:43.206Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (12 ms) 200
+[2021-12-01T00:53:43.532Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T00:57:01.336Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (20 ms) 200
+[2021-12-01T00:57:01.680Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T00:57:30.469Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (12 ms) 200
+[2021-12-01T00:57:30.760Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:00:15.647Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (14 ms) 200
+[2021-12-01T01:00:15.951Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (6 ms) 200
+[2021-12-01T01:00:18.726Z] debug GET /publications?_sort=updated_at:desc&_limit=6 (17 ms) 200
+[2021-12-01T01:00:19.013Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:02:21.493Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:02:21.900Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:04:23.201Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:04:23.541Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (10 ms) 200
+[2021-12-01T01:09:02.855Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T01:09:03.145Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:10:18.990Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:10:19.315Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:10:21.495Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T01:10:21.872Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (10 ms) 200
+[2021-12-01T01:10:32.700Z] debug GET /publications?_sort=updated_at:desc (29 ms) 200
+[2021-12-01T01:10:33.020Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:10:49.017Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:10:49.391Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:10:53.614Z] debug GET /publications?_sort=updated_at:desc (114 ms) 200
+[2021-12-01T01:10:53.920Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:11:54.013Z] debug GET /publications?_sort=updated_at:desc (17 ms) 200
+[2021-12-01T01:11:54.322Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:13:04.928Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:13:05.283Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:13:10.571Z] debug GET /publications?_sort=updated_at:desc (17 ms) 200
+[2021-12-01T01:13:10.908Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:13:15.863Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:13:16.235Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:15:10.808Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:15:11.143Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:16:31.433Z] debug GET /publications?_sort=updated_at:desc (19 ms) 200
+[2021-12-01T01:16:31.737Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:16:40.712Z] debug GET /publications?_sort=updated_at:desc (30 ms) 200
+[2021-12-01T01:16:43.758Z] debug GET /publications?_sort=updated_at:desc (22 ms) 200
+[2021-12-01T01:16:46.908Z] debug GET /publications?_sort=updated_at:desc (27 ms) 200
+[2021-12-01T01:17:28.829Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:18:54.878Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:18:55.179Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (6 ms) 200
+[2021-12-01T01:21:58.999Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T01:21:59.411Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:23:16.184Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T01:23:16.487Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:23:30.356Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T01:23:30.625Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:23:49.570Z] debug GET /publications?_sort=updated_at:desc (28 ms) 200
+[2021-12-01T01:23:49.887Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:23:51.181Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T01:23:51.568Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:30:15.573Z] debug GET /publications?_sort=updated_at:desc (17 ms) 200
+[2021-12-01T01:30:15.889Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (10 ms) 200
+[2021-12-01T01:30:17.581Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (25 ms) 200
+[2021-12-01T01:30:17.594Z] debug GET /teams?_sort=created_at:asc (29 ms) 200
+[2021-12-01T01:30:27.518Z] debug GET /openings (27 ms) 200
+[2021-12-01T01:30:27.523Z] debug GET /teams?_sort=created_at:asc (37 ms) 200
+[2021-12-01T01:30:37.772Z] debug GET /faqs?type_eq=general&_limit=5 (13 ms) 200
+[2021-12-01T01:30:38.048Z] debug GET /faqs/count?type_eq=general (7 ms) 200
+[2021-12-01T01:30:49.198Z] debug GET /blogs?_limit=10 (17 ms) 200
+[2021-12-01T01:31:00.364Z] debug GET /publications?_sort=updated_at:desc (14 ms) 200
+[2021-12-01T01:31:00.670Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:32:16.272Z] debug GET /clients (17 ms) 200
+[2021-12-01T01:32:16.291Z] debug GET /videos?type_eq=Shrava (6 ms) 403
+[2021-12-01T01:33:28.494Z] debug GET /videos?type_eq=Shrava (12 ms) 403
+[2021-12-01T01:33:28.503Z] debug GET /clients (23 ms) 200
+[2021-12-01T01:33:28.524Z] debug GET /publications?_sort=updated_at:desc (14 ms) 200
+[2021-12-01T01:33:28.882Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T01:33:29.580Z] debug GET /videos?type_eq=Shrava (12 ms) 403
+[2021-12-01T01:33:29.586Z] debug GET /clients (24 ms) 200
+[2021-12-01T01:33:29.695Z] debug GET /publications?_sort=updated_at:desc (20 ms) 200
+[2021-12-01T01:33:29.993Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T01:33:48.948Z] debug GET /clients (16 ms) 200
+[2021-12-01T01:33:49.178Z] debug GET /videos?type_eq=Shrava (7 ms) 403
+[2021-12-01T02:01:01.757Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:01:02.071Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:01:30.925Z] debug GET /publications?_sort=updated_at:desc (17 ms) 200
+[2021-12-01T02:01:31.316Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (9 ms) 200
+[2021-12-01T02:01:44.999Z] debug GET /publications?_sort=updated_at:desc (25 ms) 200
+[2021-12-01T02:01:45.341Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:01:59.682Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:01:59.985Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:02:36.459Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:02:36.850Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:03:11.784Z] debug GET /blogs?_limit=10 (25 ms) 200
+[2021-12-01T02:03:12.863Z] debug GET /publications?_sort=updated_at:desc (14 ms) 200
+[2021-12-01T02:03:13.173Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:04:14.652Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:04:14.970Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:04:39.909Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:04:40.215Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:04:53.593Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:04:53.960Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (9 ms) 200
+[2021-12-01T02:05:05.988Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:05:06.283Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:05:21.952Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:05:22.275Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:07:41.137Z] debug GET /publications?_sort=updated_at:desc (103 ms) 200
+[2021-12-01T02:07:41.463Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:07:47.485Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:07:47.805Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:08:03.777Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:08:04.136Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:08:04.815Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:08:05.131Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (9 ms) 200
+[2021-12-01T02:08:43.140Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:08:43.526Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:09:23.829Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:09:24.148Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:09:46.571Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:09:46.899Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:12:17.395Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:12:17.764Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:12:26.589Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:12:26.967Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:12:58.006Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:12:58.335Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:13:54.154Z] debug GET /publications?_sort=updated_at:desc (27 ms) 200
+[2021-12-01T02:13:54.447Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:14:06.194Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:14:06.512Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:15:23.073Z] debug GET /publications?_sort=updated_at:desc (17 ms) 200
+[2021-12-01T02:15:23.421Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:17:38.233Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:17:38.578Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:17:45.529Z] debug GET /publications?_sort=updated_at:desc (15 ms) 200
+[2021-12-01T02:17:45.834Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:18:50.936Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:18:51.237Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (8 ms) 200
+[2021-12-01T02:19:13.848Z] debug GET /publications?_sort=updated_at:desc (16 ms) 200
+[2021-12-01T02:19:14.145Z] debug GET /publications/count?publish_at_gte=2021-01-01&publish_at_lte=2021-12-31 (7 ms) 200
+[2021-12-01T02:19:32.059Z] debug OPTIONS /bookings/get/booking/solts (1 ms) 204
+[2021-12-01T02:19:32.061Z] debug OPTIONS /bookings/get/booking/solts (1 ms) 204
+[2021-12-01T02:19:32.076Z] debug OPTIONS /bookings/get/booking/solts (0 ms) 204
+2021-12-02
+2021-12-02
+[2021-12-01T02:19:32.357Z] debug POST /bookings/get/booking/solts (37 ms) 200
+[2021-12-01T02:19:32.361Z] debug POST /bookings/get/booking/solts (33 ms) 200
+2021-12-02
+[2021-12-01T02:19:32.366Z] debug POST /bookings/get/booking/solts (16 ms) 200
+[2021-12-01T02:20:22.424Z] debug GET /blogs?_limit=10 (21 ms) 200
+2021-12-02
+[2021-12-01T02:22:04.111Z] debug POST /bookings/get/booking/solts (18 ms) 200
+[2021-12-01T02:22:04.133Z] debug GET /blogs?_limit=10 (26 ms) 200
+[2021-12-01T02:22:13.111Z] debug GET /faqs?type_eq=general&_limit=5 (23 ms) 200
+[2021-12-01T02:22:13.399Z] debug GET /faqs/count?type_eq=general (8 ms) 200
+2021-12-02
+[2021-12-01T02:26:43.177Z] debug POST /bookings/get/booking/solts (21 ms) 200
+2021-12-02
+[2021-12-01T02:27:39.594Z] debug POST /bookings/get/booking/solts (9 ms) 200
+[2021-12-01T02:27:39.870Z] debug GET /faqs?type_eq=general&_limit=5 (11 ms) 200
+[2021-12-01T02:27:40.143Z] debug GET /faqs/count?type_eq=general (7 ms) 200
+2021-12-02
+[2021-12-01T02:32:14.997Z] debug POST /bookings/get/booking/solts (22 ms) 200
+[2021-12-01T02:32:15.014Z] debug GET /faqs?type_eq=general&_limit=5 (12 ms) 200
+[2021-12-01T02:32:15.299Z] debug GET /faqs/count?type_eq=general (7 ms) 200
+2021-12-02
+[2021-12-01T02:33:01.223Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:33:01.471Z] debug GET /faqs?type_eq=general&_limit=5 (12 ms) 200
+[2021-12-01T02:33:01.740Z] debug GET /faqs/count?type_eq=general (7 ms) 200
+[2021-12-01T02:33:18.194Z] debug GET /openings (40 ms) 200
+[2021-12-01T02:33:18.203Z] debug GET /teams?_sort=created_at:asc (44 ms) 200
+2021-12-02
+[2021-12-01T02:33:26.450Z] debug POST /bookings/get/booking/solts (9 ms) 200
+[2021-12-01T02:33:26.710Z] debug GET /openings (12 ms) 200
+[2021-12-01T02:33:26.734Z] debug GET /teams?_sort=created_at:asc (18 ms) 200
+2021-12-02
+[2021-12-01T02:35:10.869Z] debug POST /bookings/get/booking/solts (10 ms) 200
+2021-12-02
+[2021-12-01T02:35:15.219Z] debug POST /bookings/get/booking/solts (15 ms) 200
+[2021-12-01T02:35:15.222Z] debug GET /openings (26 ms) 200
+[2021-12-01T02:35:15.468Z] debug GET /teams?_sort=created_at:asc (18 ms) 200
+[2021-12-01T02:36:54.033Z] debug GET /openings (34 ms) 200
+[2021-12-01T02:36:54.045Z] debug GET /teams?_sort=created_at:asc (31 ms) 200
+[2021-12-01T02:37:08.386Z] debug GET /openings (12 ms) 200
+[2021-12-01T02:37:08.704Z] debug GET /teams?_sort=created_at:asc (17 ms) 200
+[2021-12-01T02:37:28.453Z] debug GET /openings (22 ms) 200
+[2021-12-01T02:37:28.457Z] debug GET /teams?_sort=created_at:asc (38 ms) 200
+[2021-12-01T02:37:30.230Z] debug GET /openings (25 ms) 200
+[2021-12-01T02:37:30.245Z] debug GET /teams?_sort=created_at:asc (35 ms) 200
+2021-12-02
+[2021-12-01T02:37:54.338Z] debug POST /bookings/get/booking/solts (12 ms) 200
+2021-12-02
+[2021-12-01T02:37:56.365Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:37:56.651Z] debug GET /openings (21 ms) 200
+[2021-12-01T02:37:56.664Z] debug GET /teams?_sort=created_at:asc (26 ms) 200
+2021-12-02
+[2021-12-01T02:37:59.662Z] debug POST /bookings/get/booking/solts (9 ms) 200
+2021-12-02
+[2021-12-01T02:38:54.059Z] debug POST /bookings/get/booking/solts (9 ms) 200
+2021-12-02
+[2021-12-01T02:39:02.976Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:39:03.012Z] debug GET /openings (28 ms) 200
+[2021-12-01T02:39:03.017Z] debug GET /teams?_sort=created_at:asc (37 ms) 200
+2021-12-02
+[2021-12-01T02:39:03.435Z] debug POST /bookings/get/booking/solts (67 ms) 200
+[2021-12-01T02:39:03.675Z] debug GET /openings (19 ms) 200
+[2021-12-01T02:39:03.690Z] debug GET /teams?_sort=created_at:asc (25 ms) 200
+2021-12-02
+[2021-12-01T02:39:22.116Z] debug POST /bookings/get/booking/solts (10 ms) 200
+2021-12-02
+[2021-12-01T02:39:30.201Z] debug POST /bookings/get/booking/solts (11 ms) 200
+2021-12-02
+[2021-12-01T02:39:30.492Z] debug POST /bookings/get/booking/solts (37 ms) 200
+[2021-12-01T02:39:30.502Z] debug GET /openings (43 ms) 200
+[2021-12-01T02:39:30.512Z] debug GET /teams?_sort=created_at:asc (38 ms) 200
+2021-12-02
+[2021-12-01T02:41:37.298Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:41:37.327Z] debug GET /openings (23 ms) 200
+[2021-12-01T02:41:37.331Z] debug GET /teams?_sort=created_at:asc (30 ms) 200
+2021-12-02
+[2021-12-01T02:42:00.868Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:42:01.261Z] debug GET /openings (35 ms) 200
+[2021-12-01T02:42:01.273Z] debug GET /teams?_sort=created_at:asc (28 ms) 200
+2021-12-02
+[2021-12-01T02:42:48.819Z] debug POST /bookings/get/booking/solts (11 ms) 200
+[2021-12-01T02:42:48.842Z] debug GET /openings (12 ms) 200
+[2021-12-01T02:42:48.879Z] debug GET /teams?_sort=created_at:asc (18 ms) 200
+2021-12-02
+[2021-12-01T02:42:59.936Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:43:00.350Z] debug GET /openings (34 ms) 200
+[2021-12-01T02:43:00.356Z] debug GET /teams?_sort=created_at:asc (49 ms) 200
+2021-12-02
+[2021-12-01T02:43:25.962Z] debug POST /bookings/get/booking/solts (40 ms) 200
+[2021-12-01T02:43:25.981Z] debug GET /openings (53 ms) 200
+[2021-12-01T02:43:25.991Z] debug GET /teams?_sort=created_at:asc (58 ms) 200
+2021-12-02
+[2021-12-01T02:43:27.685Z] debug POST /bookings/get/booking/solts (22 ms) 200
+[2021-12-01T02:43:27.698Z] debug GET /openings (28 ms) 200
+[2021-12-01T02:43:27.706Z] debug GET /teams?_sort=created_at:asc (34 ms) 200
+2021-12-02
+[2021-12-01T02:43:47.448Z] debug POST /bookings/get/booking/solts (10 ms) 200
+[2021-12-01T02:43:47.851Z] debug GET /openings (25 ms) 200
+[2021-12-01T02:43:47.856Z] debug GET /teams?_sort=created_at:asc (33 ms) 200
+2021-12-02
+[2021-12-01T02:43:48.453Z] debug POST /bookings/get/booking/solts (17 ms) 200
+[2021-12-01T02:43:48.468Z] debug GET /openings (25 ms) 200
+[2021-12-01T02:43:48.480Z] debug GET /teams?_sort=created_at:asc (25 ms) 200
+2021-12-02
+[2021-12-01T02:44:11.774Z] debug POST /bookings/get/booking/solts (22 ms) 200
+[2021-12-01T02:44:11.777Z] debug GET /openings (29 ms) 200
+[2021-12-01T02:44:11.804Z] debug GET /teams?_sort=created_at:asc (41 ms) 200
+2021-12-02
+[2021-12-01T02:44:56.356Z] debug POST /bookings/get/booking/solts (11 ms) 200
+[2021-12-01T02:44:56.758Z] debug GET /openings (19 ms) 200
+[2021-12-01T02:44:56.771Z] debug GET /teams?_sort=created_at:asc (24 ms) 200
+2021-12-02
+[2021-12-01T02:44:57.756Z] debug POST /bookings/get/booking/solts (26 ms) 200
+[2021-12-01T02:44:57.764Z] debug GET /openings (30 ms) 200
+[2021-12-01T02:44:57.775Z] debug GET /teams?_sort=created_at:asc (37 ms) 200
+2021-12-02
+[2021-12-01T02:45:08.056Z] debug POST /bookings/get/booking/solts (23 ms) 200
+[2021-12-01T02:45:08.075Z] debug GET /openings (25 ms) 200
+[2021-12-01T02:45:08.085Z] debug GET /teams?_sort=created_at:asc (31 ms) 200
+2021-12-02
+[2021-12-01T02:46:25.564Z] debug POST /bookings/get/booking/solts (25 ms) 200
+[2021-12-01T02:46:25.576Z] debug GET /openings (27 ms) 200
+[2021-12-01T02:46:25.585Z] debug GET /teams?_sort=created_at:asc (31 ms) 200
+[2021-12-01T04:05:02.205Z] debug GET /videos?type_eq=Presentation (18 ms) 403
+[2021-12-01T04:05:02.207Z] debug GET /videos?type_eq=Shonit (16 ms) 403
+[2021-12-01T04:05:02.360Z] debug GET /videos?type_eq=Shrava (20 ms) 403
+[2021-12-01T04:05:02.383Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (49 ms) 200
+[2021-12-01T04:05:02.391Z] debug GET /clients (63 ms) 200
+[2021-12-01T04:05:02.395Z] debug GET /blogs?_limit=5 (52 ms) 200
+[2021-12-01T04:05:09.337Z] debug GET /videos?type_eq=Shrava (36 ms) 403
+[2021-12-01T04:05:09.345Z] debug GET /videos?type_eq=Shonit (39 ms) 403
+[2021-12-01T04:05:09.379Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (67 ms) 200
+[2021-12-01T04:05:09.394Z] debug GET /clients (78 ms) 200
+[2021-12-01T04:05:09.399Z] debug GET /blogs?_limit=5 (78 ms) 200
+[2021-12-01T04:05:09.531Z] debug GET /videos?type_eq=Presentation (6 ms) 403
+[2021-12-01T04:06:00.858Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (31 ms) 200
+[2021-12-01T04:06:00.867Z] debug GET /teams?_sort=created_at:asc (29 ms) 200
+[2021-12-01T04:11:24.414Z] debug GET /videos?type_eq=Shonit (145 ms) 403
+[2021-12-01T04:11:24.430Z] debug GET /videos?type_eq=Presentation (156 ms) 403
+[2021-12-01T04:11:24.434Z] debug GET /videos?type_eq=Shrava (156 ms) 403
+[2021-12-01T04:11:24.457Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (174 ms) 200
+[2021-12-01T04:11:24.472Z] debug GET /clients (184 ms) 200
+[2021-12-01T04:11:24.478Z] debug GET /blogs?_limit=5 (133 ms) 200
+[2021-12-01T04:12:42.246Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (45 ms) 200
+[2021-12-01T04:12:42.258Z] debug GET /teams?_sort=created_at:asc (38 ms) 200
+[2021-12-01T04:14:02.872Z] debug GET /videos?type_eq=Shrava (10 ms) 403
+[2021-12-01T04:14:02.902Z] debug GET /videos?type_eq=Shonit (25 ms) 403
+[2021-12-01T04:14:02.915Z] debug GET /videos?type_eq=Presentation (27 ms) 403
+[2021-12-01T04:14:02.932Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (50 ms) 200
+[2021-12-01T04:14:02.950Z] debug GET /blogs?_limit=5 (57 ms) 200
+[2021-12-01T04:14:02.953Z] debug GET /clients (55 ms) 200
+[2021-12-01T04:35:38.148Z] debug GET /videos?type_eq=Presentation (33 ms) 403
+[2021-12-01T04:35:38.159Z] debug GET /videos?type_eq=Shonit (37 ms) 403
+[2021-12-01T04:35:38.169Z] debug GET /videos?type_eq=Shrava (34 ms) 403
+[2021-12-01T04:35:38.203Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (75 ms) 200
+[2021-12-01T04:35:38.214Z] debug GET /clients (74 ms) 200
+[2021-12-01T04:35:38.221Z] debug GET /blogs?_limit=5 (75 ms) 200
+[2021-12-01T04:35:50.532Z] debug GET /videos?type_eq=Presentation (12 ms) 403
+[2021-12-01T04:35:50.557Z] debug GET /videos?type_eq=Shonit (28 ms) 403
+[2021-12-01T04:35:50.565Z] debug GET /videos?type_eq=Shrava (28 ms) 403
+[2021-12-01T04:35:50.600Z] debug GET /publications?_sort=updated_at:desc&_limit=10 (52 ms) 200
+[2021-12-01T04:35:50.610Z] debug GET /blogs?_limit=5 (66 ms) 200
+[2021-12-01T04:35:50.614Z] debug GET /clients (60 ms) 200
+[2021-12-01T04:46:04.946Z] debug GET /stories?year_in=2014&year_in=2015&year_in=2016 (34 ms) 200
+[2021-12-01T04:46:04.952Z] debug GET /teams?_sort=created_at:asc (33 ms) 200
+[2021-12-01T04:54:06.906Z] de

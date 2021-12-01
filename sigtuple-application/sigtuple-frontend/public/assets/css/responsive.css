@@ -1,0 +1,491 @@
+/*
+--------------------------------------------------------------------------------------------------------
+* Project    : Sigtuple                                                                                *
+* Author     :                                                                                         * 
+* Support    :                                                                                         * 
+*------------------------------------------------------------------------------------------------------- 
+NOTE: This is main stylesheet of template, This file contains the styling for the actual Template.
+*/
+/* @charset "UTF-8"; */
+/*==========================================
+    ::  Media Query
+==========================================*/
+
+/* Responsive Media Query (Greater than 1600px)*/
+@media only screen and(min-width:1600px) {
+    .procuct-area .slick-prev {
+        left: 390px;
+    }
+    .procuct-area .slick-next {
+        left: inherit;
+        right: 394px;
+    }
+
+    .main-hover {
+        left: 185px;
+    }
+
+}
+/* Responsive Media Query (Greater than 1200px)*/
+@media only screen and(min-width:1200px) {}
+
+@media only screen and(max-width: 1400px) and(min-width: 1366px) {
+    .procuct-area .slick-prev {
+        left: 270px;
+    }
+    .procuct-area .slick-next {
+        left: inherit;
+        right: 270px;
+    }
+}
+@media only screen and(max-width: 1600px) and(min-width: 1400px) {
+    .procuct-area .slick-prev {
+        left: 290px;
+    }
+    .procuct-area .slick-next {
+        left: inherit;
+        right: 300px;
+    }
+}
+
+
+/* Responsive Media Query (less than 1600px)*/
+@media only screen and(max-width:1600px) {
+    .bg_round {
+        width: 68%;
+        left: 190px;
+    }
+    .procuct-area .slick-prev {
+        left: 270px;
+    }
+}
+/* Responsive Media Query (less than 1200px)*/
+@media only screen and(max-width:1366px) {
+    .procuct-area .slick-prev {
+        left: 244px;
+    }
+    .procuct-area .slick-next {
+        left: inherit;
+        right: 260px;
+    }
+    .Research-section h1,
+    .blog-titles h1,
+    .Careers-section h1 {
+        font-size: 54px;
+    }
+
+    .Careers-section {
+        justify-content: start !important;
+        margin-top: 90px;
+    }
+}
+
+/* Responsive Media Query (less than 1199px)*/
+@media only screen and(max-width:1199px) {
+    .procuct-area .slick-prev {
+        left: 310px;
+    }
+    .procuct-area .slick-next {
+        right: 310px;
+    }
+    .procuct-area {
+        padding: 0 0 60px;
+    }
+    .box-ProcuctCenter {
+        order: 1 !important;
+    }
+    .box-ProcuctLeft {
+        order: 2 !important;
+    }
+    .box-ProcuctRight {
+        order: 3 !important;
+    }
+    .product-grid {
+        flex-direction: column;
+    }
+    .bg_round,
+    .box-ProcuctLeft,
+    .box-ProcuctRight {
+        display: none;
+    }
+
+    .mobileproduct {
+        display: block;
+    }
+    .mobileproduct-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2rem;
+    }
+    .blood {
+        width: 110px;
+        height: 110px;
+    }
+
+    .box-ProcuctCenter {
+        width: 100%;
+    }
+    .ProcuctLeft:hover .text-description,
+    .ProcuctRight:hover .text-description {
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+}
+@media only screen and(max-width: 1140px) {}
+/* Responsive Media Query (less than 991px)*/
+@media only screen and(max-width: 991px) {
+
+    .Research-section h1,
+    .blog-titles h1 {
+        font-size: 42px;
+    }
+    .nav-bookdemo,
+    .nav-user {
+        display: none;
+    }
+    /*.eye-section {position: relative; bottom: 0; left: 50%; transform: translateX(-50%); }*/
+    /*.verticle {margin-top: auto; height: 180px; border-left: 2px dashed #de1a1b; position: relative; top: calc(100% - 180px); left: 0; transform: translateX(50%); right: 0; bottom: 0; margin: 0 auto; }*/
+    .hero-banner,
+    .our-client,
+    .policy {
+        height: auto !important;
+    }
+    .hero-section {
+        height: auto !important;
+        margin-top: 60px;
+    }
+    .small h1 {
+        font-size: 40px;
+    }
+    .check-products {
+        margin-top: 70px !important;
+    }
+    .play-btn {
+        position: relative;
+        top: -120px;
+        left: 0;
+        transform: translate(0%, 0%);
+        width: 80px;
+        height: 80px;
+        background-color: transparent;
+        border: 8px solid #fff;
+        border-radius: 50%;
+        display: flex;
+        cursor: pointer;
+        right: 0;
+        margin: auto;
+    }
+    .Extensive-slider .slick-arrow,
+    .brewing-slider .slick-arrow,
+    .awards-slider .slick-arrow {
+        display: none !important;
+    }
+    .clients_user_sections {
+        display: inline-block !important;
+    }
+    .slick-dots {
+        display: block !important;
+    }
+    .procuct-area .slick-prev {
+        left: 190px;
+    }
+    .procuct-area .slick-next {
+        right: 190px;
+    }
+    .policy-list-item {
+        margin: 50px 0;
+        display: inline-block;
+        width: 100%;
+    }
+
+
+    .solutions-vh {
+        height: auto !important;
+    }
+    .Solutions-grid {
+        margin-top: 50px;
+    }
+    .Benefits-grid.grid-4 {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem;
+    }
+    .Benefits-list {
+        margin: 0;
+        box-shadow: 0 9px 21px rgb(112 112 112 / 25%);
+        -webkit-box-shadow: 0 9px 21px rgb(112 112 112 / 25%);
+        -moz-box-shadow: 0 9px 21px rgba(112, 112, 112, 0.25);
+        border-bottom: 0 solid #de1a1b;
+    }
+    .Benefits-text {
+        display: block;
+    }
+
+    .description-blog-hide {
+        display: block;
+    }
+    .description-blog-hide span:nth-child(1) {
+        display: none !important;
+    }
+
+    .Blog-list-grid.grid-3,
+    .Publications-grid.grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .Blog-list-grid.grid-3 {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .steps-vh {
+        height: auto !important;
+    }
+    .steps-grid.grid-3 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .steps-top-padding {
+        padding-top: 0 !important
+    }
+    .accurate-list,
+    .steps-list {
+        margin-right: 20px;
+    }
+
+    .Values-img {
+        margin-right: 0;
+        margin-top: 30px;
+    }
+    .Values-img img {
+        margin-left: 0;
+    }
+
+    .Positions-grid.grid-2 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .Positions-grid .Positions-list {
+        margin-right: 0;
+    }
+    .experts-grid.grid-4 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .Reachus-grid.grid-2 {
+        grid-gap: 2rem;
+    }
+    .faqs-margin {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .faqs-right {
+        padding: 50px 0 0;
+    }
+}
+/* Responsive Media Query (less than 767px)*/
+@media only screen and(max-width: 767px) {
+
+    .item-last {
+        margin-bottom: 0;
+    }
+    .video-text h1 {
+        font-size: 32px;
+    }
+    .simple h1 {
+        font-size: 26px;
+    }
+
+    .text-title {
+        font-size: 26px;
+    }
+    .text-sub {
+        font-size: 18px;
+    }
+    .clients_text_sections {
+        padding: 20px;
+    }
+    .Clients-slider .right-card-body {
+        padding: 40px 60px 120px;
+    }
+    .Clients-slider .left-card-body {
+        border-bottom-right-radius: 50px;
+        border-bottom-left-radius: 50px;
+    }
+    .Clients-count {
+        left: 73px;
+        right: initial;
+    }
+    .Clients-slider .left-card-body {
+        padding: 30px 20px;
+    }
+    .Clients-slider .slick-arrow {
+        left: calc(100% - 90px);
+    }
+    .Clients-slider .slick-prev {
+        left: calc(100% - 155px) !important;
+    }
+    .awards-slider-item {
+        margin: 0 0 30px
+    }
+    .footer-menu > div {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+    }
+    .footer-menu a {
+        margin: 10px 0;
+        width: 35%;
+        display: inline-block;
+    }
+    .footer-menu {
+        margin: 0 0 30px;
+        border-top: 1px solid rgb(0 0 0 / 15%);
+        padding-top: 20px;
+    }
+    .Copyright-area {
+        position: absolute;
+        bottom: 20px;
+    }
+    .procuct-area .slick-prev {
+        left: 80px;
+    }
+    .procuct-area .slick-next {
+        right: 80px;
+    }
+    .right-panel-menu .right-panel {
+        width: 320px;
+        padding: 30px 0 30px 80px;
+    }
+    .main-hover {
+        bottom: 0;
+        position: relative;
+        width: 290px;
+        left: 0;
+        right: 0;
+        margin: 0 auto !important;
+    }
+    .awards-area {
+        padding: 200px 10%;
+    }
+    .review-report-img,
+    .Cell-identification-img,
+    .multiple-tests-img {
+        margin-top: 80px;
+    }
+    .Benefits-grid.grid-4 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .Blog-list-grid.grid-3,
+    .Publications-grid.grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .Research-area .check-products {
+        display: none;
+    }
+    .accurate-grid.grid-2 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .cot {
+        display: none;
+    }
+    .Publications-data-list ul li button {
+        padding-right: 14px !important;
+        padding-left: 14px !important;
+    }
+
+    .Research-section p br {
+        display: none;
+    }
+    .Careers-section .check-products {
+        display: none;
+    }
+    .Careers-section {
+        height: auto !important;
+    }
+    .Careers-section .blog-titles {
+        margin: 80px 0;
+    }
+
+
+    .Code-data-list {
+        flex-direction: column;
+    }
+    .Code-data-second {
+        margin-right: 0;
+    }
+    .Positions-area .optiontitle p br {
+        display: none;
+    }
+
+    .Reachus-grid.grid-2 {
+        grid-gap: 2rem;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}
+@media only screen and(max-width: 599px) {
+    .awards-slider-item > .text-center.plr-80 {
+        padding: 0 !important;
+    }
+    .Blog-list-grid.grid-3,
+    .Publications-grid.grid-3 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .experts-grid.grid-4 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .funatwork div {
+        width: 100%;
+    }
+    .experts-list {
+        margin: 0 65px;
+    }
+}
+/* Responsive Media Query (less than 575px)*/
+@media only screen and(max-width:575px) {
+    .text-title {
+        font-size: 22px;
+    }
+    .procuct-area .slick-prev {
+        left: 60px;
+    }
+    .procuct-area .slick-next {
+        right: 60px;
+        left: inherit;
+    }
+
+
+}
+/* Responsive Media Query (less than 480px)*/
+@media only screen and(max-width:480px) {
+    .procuct-area .slick-next {
+        right: 60px;
+        left: inherit;
+    }
+}
+/* Responsive Media Query (less than 360px)*/
+@media only screen and(max-width:375px) {
+    .procuct-area .slick-prev {
+        left: 30px;
+    }
+    .procuct-area .slick-next {
+        right: initial;
+        left: 270px;
+    }
+}
+/* Responsive Media Query (less than 360px)*/
+@media only screen and(max-width:360px) {
+    .procuct-area .slick-prev {
+        left: 30px;
+    }
+    .procuct-area .slick-next {
+        right: 30px;
+        left: inherit;
+    }
+}
+/* Responsive Media Query (less than 320px)*/
+@media only screen and(max-width:320px) {
+    .procuct-area .slick-prev {
+        left: 30px;
+    }
+    .procuct-area .slick-next {
+        right: initial;
+        left: 230px;
+    }
+
+}

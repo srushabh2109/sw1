@@ -1,0 +1,5 @@
+[2021-08-24T16:52:36.304Z] Error while serving /home/ubuntu/sigtuple/build/left-arrow-black.png with content-type image/png : ENOENT: no such file or directory, open '/home/ubuntu/sigtuple/build/left-arrow-black.png'
+[2021-08-24T16:52:36.316Z] Error while serving /home/ubuntu/sigtuple/build/right-arrow-black.png with content-type image/png : ENOENT: no such file or directory, open '/home/ubuntu/sigtuple/build/right-arrow-black.png'
+[2021-08-24T16:52:38.390Z] Error while serving /home/ubuntu/sigtuple/build/left-arrow-black.png with content-type image/png : ENOENT: no such file or directory, open '/home/ubuntu/sigtuple/build/left-arrow-black.png'
+[2021-08-24T16:52:38.429Z] Error while serving /home/ubuntu/sigtuple/build/right-arrow-black.png with content-type image/png : ENOENT: no such file or directory, open '/home/ubuntu/sigtuple/build/right-arrow-black.png'
+[2021-08-24T16:52:49.971Z] Error while serving /home/ubuntu/sigtuple/build/shonit with content-type text/plain : ENOENT: no such file or directory, open '/home/ubuntu/sigtuple/build/shonit'

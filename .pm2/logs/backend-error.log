@@ -1,0 +1,1389 @@
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_29_554Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_32_917Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_39_062Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_45_826Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_52_181Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_01_59_293Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-07-28T19_02_05_649Z-debug.log
+(node:202443) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:202443) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202443) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202443) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202443) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202598) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:202598) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202598) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202598) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:202598) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:205046) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:205046) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:205046) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:205046) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:205046) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:1929) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1929) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:1929) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:1929) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:1929) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:7335) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:7335) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:7335) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:7335) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:7335) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12152) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12152) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12152) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12152) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12152) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12306) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12306) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12306) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12306) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12306) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12354) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12354) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12354) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12354) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:12354) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17607) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17607) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17607) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17607) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17607) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17654) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17654) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17654) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17654) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:17654) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39410) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:39410) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39410) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39410) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39410) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39925) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:39925) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39925) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39925) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:39925) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:40476) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unpipe listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:40476) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:40476) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:40476) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(node:40476) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 finish listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_02_36_506Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_02_51_770Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_05_324Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_15_801Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_24_378Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_25_899Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_26_869Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_27_915Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_28_760Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_29_677Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_30_446Z-debug.log
+sh: 1: strapi: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-05T21_03_31_223Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_18_474Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_26_283Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_33_844Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_37_800Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_41_833Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_45_945Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_50_539Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_55_572Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_01_59_614Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_01_651Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_03_662Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_06_426Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_10_274Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_12_310Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_14_345Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_16_341Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_18_358Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_20_389Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_22_578Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_24_622Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_26_666Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_28_707Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_30_736Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_32_776Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_34_814Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_36_810Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_38_794Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_40_810Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_44_384Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_46_398Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_50_107Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_54_095Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_02_59_198Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_04_591Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_09_785Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_14_340Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_17_754Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_19_752Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_21_794Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_23_803Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_25_803Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_27_802Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_29_843Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_32_249Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_34_388Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_36_906Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_38_909Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_40_901Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_43_899Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_45_878Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_47_870Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_49_888Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_51_921Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_53_953Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_55_944Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_03_58_378Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_00_421Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_02_461Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_04_539Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_06_597Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_08_664Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_10_763Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_12_820Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_15_906Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_17_988Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_20_045Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_22_125Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_24_224Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_26_305Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_28_363Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_30_950Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_33_154Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_35_212Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_37_223Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_39_256Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_41_279Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_43_326Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_45_402Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_47_413Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_49_449Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_51_458Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_53_467Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_55_485Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_57_507Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_04_59_525Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_01_581Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_03_605Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_05_699Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_07_737Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_09_768Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_11_816Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_13_798Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_15_796Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_17_767Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_19_759Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_21_776Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_23_774Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_25_778Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_27_773Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_29_754Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_31_733Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_33_718Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_35_734Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_37_772Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_39_778Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_41_774Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_43_755Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_45_757Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_47_754Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend@0.1.0 develop: `strapi develop`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend@0.1.0 develop script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-08T19_05_49_817Z-debug.log

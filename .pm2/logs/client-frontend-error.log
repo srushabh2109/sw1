@@ -1,0 +1,896 @@
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_30_828Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_31_142Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_31_466Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_31_779Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_32_095Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_32_416Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_32_732Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_33_047Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_33_370Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_33_687Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_34_000Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_34_318Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_34_630Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_34_943Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_35_259Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `export PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_40_35_577Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_21_971Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_22_290Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_22_600Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_22_910Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_23_226Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_23_539Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_23_851Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_24_167Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_24_477Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_24_790Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_25_110Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_25_420Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_25_730Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_26_040Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_26_354Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 && react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_42_26_661Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_57_438Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_57_745Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_58_052Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_58_364Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_58_671Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_58_977Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_59_283Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_59_598Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_44_59_902Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_00_215Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_00_531Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_00_838Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_01_146Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_01_468Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_01_787Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `PORT=5000 react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_02_103Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_41_057Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_41_366Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_41_677Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_41_993Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_42_301Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_42_609Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_43_022Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_43_482Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_43_815Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_44_144Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_44_475Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_44_816Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_45_149Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_45_495Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_45_834Z-debug.log
+sh: 1: react-scripts: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! frontend@0.1.0 start: `react-scripts start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the frontend@0.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2021-08-13T17_45_46_173Z-debug.log
