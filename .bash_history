@@ -1125,3 +1125,21 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/srushabh2109/sigtuple-aws.git
 git push -u origin main
+ls
+pm2 list
+cd sigtuple-backend/
+ls
+cd ..
+cd sigtuple-application/
+ls
+cd sigtuple-frontend/
+ls
+lls
+ls
+npm i
+npm run start
+npm i source-map
+npm run start
+npm i convert-source-map  
+npm run start
+nano package.json
