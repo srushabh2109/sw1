@@ -27319,3 +27319,5 @@
 2021-12-01T12:49:30: PM2 log: Concurrent actions   : 2
 2021-12-01T12:49:30: PM2 log: SIGTERM timeout      : 1600
 2021-12-01T12:49:30: PM2 log: ===============================================================================
+2021-12-01T13:11:22: PM2 log: App [sigtuple-frontend:0] starting in -fork mode-
+2021-12-01T13:11:22: PM2 log: App [sigtuple-frontend:0] online
