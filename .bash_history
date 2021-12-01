@@ -1112,3 +1112,16 @@ cd sigtuple-frontend/
 ls -la
 rm -rf node_modules/
 npm i
+echo "# sigtuple-aws" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/srushabh2109/sigtuple-aws.git
+git push -u origin mainecho "# sigtuple-aws" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/srushabh2109/sigtuple-aws.git
+git push -u origin main

@@ -27303,3 +27303,19 @@
 2021-12-01T08:53:16: PM2 log: pid=20779 msg=process killed
 2021-12-01T09:15:25: PM2 log: pm2 has been killed by signal, dumping process list before exit...
 2021-12-01T09:16:16: PM2 log: Exited peacefully
+2021-12-01T12:49:30: PM2 log: ===============================================================================
+2021-12-01T12:49:30: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-12-01T12:49:30: PM2 log: Time                 : Wed Dec 01 2021 12:49:30 GMT+0000 (Coordinated Universal Time)
+2021-12-01T12:49:30: PM2 log: PM2 version          : 5.1.0
+2021-12-01T12:49:30: PM2 log: Node.js version      : 14.17.2
+2021-12-01T12:49:30: PM2 log: Current arch         : x64
+2021-12-01T12:49:30: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2021-12-01T12:49:30: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2021-12-01T12:49:30: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2021-12-01T12:49:30: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2021-12-01T12:49:30: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2021-12-01T12:49:30: PM2 log: Worker Interval      : 30000
+2021-12-01T12:49:30: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2021-12-01T12:49:30: PM2 log: Concurrent actions   : 2
+2021-12-01T12:49:30: PM2 log: SIGTERM timeout      : 1600
+2021-12-01T12:49:30: PM2 log: ===============================================================================
